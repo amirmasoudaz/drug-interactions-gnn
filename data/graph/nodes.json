@@ -1,0 +1,9697 @@
+[
+    {
+        "n": {
+            "name": "Cefpodoxime"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefuroxime"
+        }
+    },
+    {
+        "n": {
+            "name": "Chloroquine"
+        }
+    },
+    {
+        "n": {
+            "name": "Citalopram"
+        }
+    },
+    {
+        "n": {
+            "name": "Clofazimine"
+        }
+    },
+    {
+        "n": {
+            "name": "Clomipramine"
+        }
+    },
+    {
+        "n": {
+            "name": "Crizotinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Cyanocobalamin"
+        }
+    },
+    {
+        "n": {
+            "name": "Dacomitinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Dasatinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Daunorubicin"
+        }
+    },
+    {
+        "n": {
+            "name": "Daunorubicin (liposomal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Degarelix"
+        }
+    },
+    {
+        "n": {
+            "name": "Delavirdine"
+        }
+    },
+    {
+        "n": {
+            "name": "Desipramine"
+        }
+    },
+    {
+        "n": {
+            "name": "Deutetrabenazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Diclofenac"
+        }
+    },
+    {
+        "n": {
+            "name": "Disopyramide"
+        }
+    },
+    {
+        "n": {
+            "name": "Dofetilide"
+        }
+    },
+    {
+        "n": {
+            "name": "Donepezil"
+        }
+    },
+    {
+        "n": {
+            "name": "Doxepin"
+        }
+    },
+    {
+        "n": {
+            "name": "Doxepin (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Doxorubicin"
+        }
+    },
+    {
+        "n": {
+            "name": "Doxorubicin (liposomal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Dronedarone"
+        }
+    },
+    {
+        "n": {
+            "name": "Droperidol"
+        }
+    },
+    {
+        "n": {
+            "name": "Duloxetine"
+        }
+    },
+    {
+        "n": {
+            "name": "Encorafenib"
+        }
+    },
+    {
+        "n": {
+            "name": "Entecavir"
+        }
+    },
+    {
+        "n": {
+            "name": "Entrectinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Enzalutamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Eribulin"
+        }
+    },
+    {
+        "n": {
+            "name": "Erlotinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Erythromycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Escitalopram"
+        }
+    },
+    {
+        "n": {
+            "name": "Etodolac"
+        }
+    },
+    {
+        "n": {
+            "name": "Ezogabine"
+        }
+    },
+    {
+        "n": {
+            "name": "Fenoprofen"
+        }
+    },
+    {
+        "n": {
+            "name": "Fingolimod"
+        }
+    },
+    {
+        "n": {
+            "name": "Flecainide"
+        }
+    },
+    {
+        "n": {
+            "name": "Fluconazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Fluoxetine"
+        }
+    },
+    {
+        "n": {
+            "name": "Flurbiprofen"
+        }
+    },
+    {
+        "n": {
+            "name": "Flutamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Foscarnet"
+        }
+    },
+    {
+        "n": {
+            "name": "Fostemsavir"
+        }
+    },
+    {
+        "n": {
+            "name": "Galantamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Gefitinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Gilteritinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Glasdegib"
+        }
+    },
+    {
+        "n": {
+            "name": "Halofantrine"
+        }
+    },
+    {
+        "n": {
+            "name": "Haloperidol"
+        }
+    },
+    {
+        "n": {
+            "name": "Halothane"
+        }
+    },
+    {
+        "n": {
+            "name": "Hydroxychloroquine"
+        }
+    },
+    {
+        "n": {
+            "name": "Hydroxyzine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ibuprofen"
+        }
+    },
+    {
+        "n": {
+            "name": "Ibutilide"
+        }
+    },
+    {
+        "n": {
+            "name": "Idarubicin"
+        }
+    },
+    {
+        "n": {
+            "name": "Imipramine"
+        }
+    },
+    {
+        "n": {
+            "name": "Indomethacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Inotuzumab ozogamicin"
+        }
+    },
+    {
+        "n": {
+            "name": "Itraconazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Ivabradine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ivosidenib"
+        }
+    },
+    {
+        "n": {
+            "name": "Ketoconazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Ketoprofen"
+        }
+    },
+    {
+        "n": {
+            "name": "Ketorolac"
+        }
+    },
+    {
+        "n": {
+            "name": "Lapatinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Lasmiditan"
+        }
+    },
+    {
+        "n": {
+            "name": "Lefamulin"
+        }
+    },
+    {
+        "n": {
+            "name": "Lenvatinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Levacetylmethadol"
+        }
+    },
+    {
+        "n": {
+            "name": "Lofexidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Maprotiline"
+        }
+    },
+    {
+        "n": {
+            "name": "Meclofenamic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Mefenamic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Mefloquine"
+        }
+    },
+    {
+        "n": {
+            "name": "Methadone"
+        }
+    },
+    {
+        "n": {
+            "name": "Mecobalamin"
+        }
+    },
+    {
+        "n": {
+            "name": "Mifepristone"
+        }
+    },
+    {
+        "n": {
+            "name": "Mirtazapine"
+        }
+    },
+    {
+        "n": {
+            "name": "Naproxen"
+        }
+    },
+    {
+        "n": {
+            "name": "Neratinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Nicotine"
+        }
+    },
+    {
+        "n": {
+            "name": "Nilotinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Nilutamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Nortriptyline"
+        }
+    },
+    {
+        "n": {
+            "name": "Oliceridine"
+        }
+    },
+    {
+        "n": {
+            "name": "Osilodrostat"
+        }
+    },
+    {
+        "n": {
+            "name": "Osimertinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxaliplatin"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxaprozin"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxtriphylline"
+        }
+    },
+    {
+        "n": {
+            "name": "Panobinostat"
+        }
+    },
+    {
+        "n": {
+            "name": "Pazopanib"
+        }
+    },
+    {
+        "n": {
+            "name": "Pemetrexed"
+        }
+    },
+    {
+        "n": {
+            "name": "Pimavanserin"
+        }
+    },
+    {
+        "n": {
+            "name": "Pimozide"
+        }
+    },
+    {
+        "n": {
+            "name": "Piroxicam"
+        }
+    },
+    {
+        "n": {
+            "name": "Pitolisant"
+        }
+    },
+    {
+        "n": {
+            "name": "Ponatinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Posaconazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Prasugrel"
+        }
+    },
+    {
+        "n": {
+            "name": "Primaquine"
+        }
+    },
+    {
+        "n": {
+            "name": "Probenecid"
+        }
+    },
+    {
+        "n": {
+            "name": "Probucol"
+        }
+    },
+    {
+        "n": {
+            "name": "Procainamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Propafenone"
+        }
+    },
+    {
+        "n": {
+            "name": "Propofol"
+        }
+    },
+    {
+        "n": {
+            "name": "Dextropropoxyphene"
+        }
+    },
+    {
+        "n": {
+            "name": "Protriptyline"
+        }
+    },
+    {
+        "n": {
+            "name": "Quinidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Quinine"
+        }
+    },
+    {
+        "n": {
+            "name": "Raltegravir"
+        }
+    },
+    {
+        "n": {
+            "name": "Ramelteon"
+        }
+    },
+    {
+        "n": {
+            "name": "Ranolazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ribociclib"
+        }
+    },
+    {
+        "n": {
+            "name": "Rilpivirine"
+        }
+    },
+    {
+        "n": {
+            "name": "Rivastigmine"
+        }
+    },
+    {
+        "n": {
+            "name": "Romidepsin"
+        }
+    },
+    {
+        "n": {
+            "name": "Rucaparib"
+        }
+    },
+    {
+        "n": {
+            "name": "Selpercatinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Sertraline"
+        }
+    },
+    {
+        "n": {
+            "name": "Sevoflurane"
+        }
+    },
+    {
+        "n": {
+            "name": "Siponimod"
+        }
+    },
+    {
+        "n": {
+            "name": "Sodium bicarbonate"
+        }
+    },
+    {
+        "n": {
+            "name": "Solifenacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Sonidegib"
+        }
+    },
+    {
+        "n": {
+            "name": "Sorafenib"
+        }
+    },
+    {
+        "n": {
+            "name": "Sotalol"
+        }
+    },
+    {
+        "n": {
+            "name": "Sulfamethoxazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Sulindac"
+        }
+    },
+    {
+        "n": {
+            "name": "Sunitinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Tacrine"
+        }
+    },
+    {
+        "n": {
+            "name": "Tamoxifen"
+        }
+    },
+    {
+        "n": {
+            "name": "Telavancin"
+        }
+    },
+    {
+        "n": {
+            "name": "Telithromycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Terfenadine"
+        }
+    },
+    {
+        "n": {
+            "name": "Tetrabenazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Thalidomide"
+        }
+    },
+    {
+        "n": {
+            "name": "Theophylline"
+        }
+    },
+    {
+        "n": {
+            "name": "Tizanidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Tolmetin"
+        }
+    },
+    {
+        "n": {
+            "name": "Toremifene"
+        }
+    },
+    {
+        "n": {
+            "name": "Trazodone"
+        }
+    },
+    {
+        "n": {
+            "name": "Triamterene"
+        }
+    },
+    {
+        "n": {
+            "name": "Triclabendazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Trimipramine"
+        }
+    },
+    {
+        "n": {
+            "name": "Valbenazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Vandetanib"
+        }
+    },
+    {
+        "n": {
+            "name": "Vardenafil"
+        }
+    },
+    {
+        "n": {
+            "name": "Vasopressin"
+        }
+    },
+    {
+        "n": {
+            "name": "Vemurafenib"
+        }
+    },
+    {
+        "n": {
+            "name": "Vismodegib"
+        }
+    },
+    {
+        "n": {
+            "name": "Voriconazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Atracurium"
+        }
+    },
+    {
+        "n": {
+            "name": "Cisatracurium"
+        }
+    },
+    {
+        "n": {
+            "name": "Cyclosporine"
+        }
+    },
+    {
+        "n": {
+            "name": "Didanosine"
+        }
+    },
+    {
+        "n": {
+            "name": "Doxacurium"
+        }
+    },
+    {
+        "n": {
+            "name": "Etravirine"
+        }
+    },
+    {
+        "n": {
+            "name": "Flibanserin"
+        }
+    },
+    {
+        "n": {
+            "name": "Lemborexant"
+        }
+    },
+    {
+        "n": {
+            "name": "Memantine"
+        }
+    },
+    {
+        "n": {
+            "name": "Metocurine"
+        }
+    },
+    {
+        "n": {
+            "name": "Midazolam"
+        }
+    },
+    {
+        "n": {
+            "name": "Mivacurium"
+        }
+    },
+    {
+        "n": {
+            "name": "Nabumetone"
+        }
+    },
+    {
+        "n": {
+            "name": "Nifedipine"
+        }
+    },
+    {
+        "n": {
+            "name": "Pancuronium"
+        }
+    },
+    {
+        "n": {
+            "name": "Physostigmine"
+        }
+    },
+    {
+        "n": {
+            "name": "Pipecuronium"
+        }
+    },
+    {
+        "n": {
+            "name": "Porfimer sodium"
+        }
+    },
+    {
+        "n": {
+            "name": "Pramipexole"
+        }
+    },
+    {
+        "n": {
+            "name": "Rapacuronium"
+        }
+    },
+    {
+        "n": {
+            "name": "Rocuronium"
+        }
+    },
+    {
+        "n": {
+            "name": "Succinylcholine"
+        }
+    },
+    {
+        "n": {
+            "name": "Triazolam"
+        }
+    },
+    {
+        "n": {
+            "name": "Tubocurarine"
+        }
+    },
+    {
+        "n": {
+            "name": "Vecuronium"
+        }
+    },
+    {
+        "n": {
+            "name": "Amikacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Amikacin (liposome)"
+        }
+    },
+    {
+        "n": {
+            "name": "Armodafinil"
+        }
+    },
+    {
+        "n": {
+            "name": "Capmatinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Capreomycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Carboplatin"
+        }
+    },
+    {
+        "n": {
+            "name": "Cetuximab"
+        }
+    },
+    {
+        "n": {
+            "name": "Choline salicylate"
+        }
+    },
+    {
+        "n": {
+            "name": "Cisplatin"
+        }
+    },
+    {
+        "n": {
+            "name": "Clopidogrel"
+        }
+    },
+    {
+        "n": {
+            "name": "Conivaptan"
+        }
+    },
+    {
+        "n": {
+            "name": "Deferasirox"
+        }
+    },
+    {
+        "n": {
+            "name": "Echinacea"
+        }
+    },
+    {
+        "n": {
+            "name": "Fedratinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Ferrous fumarate"
+        }
+    },
+    {
+        "n": {
+            "name": "Ferrous gluconate"
+        }
+    },
+    {
+        "n": {
+            "name": "Ferrous sulfate anhydrous"
+        }
+    },
+    {
+        "n": {
+            "name": "Fluvoxamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Fosaprepitant"
+        }
+    },
+    {
+        "n": {
+            "name": "Fostamatinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Gentamicin"
+        }
+    },
+    {
+        "n": {
+            "name": "Iron protein succinylate"
+        }
+    },
+    {
+        "n": {
+            "name": "Linaclotide"
+        }
+    },
+    {
+        "n": {
+            "name": "Modafinil"
+        }
+    },
+    {
+        "n": {
+            "name": "Mycophenolate mofetil"
+        }
+    },
+    {
+        "n": {
+            "name": "Netilmicin"
+        }
+    },
+    {
+        "n": {
+            "name": "Nevirapine"
+        }
+    },
+    {
+        "n": {
+            "name": "Panitumumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Paromomycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Patiromer"
+        }
+    },
+    {
+        "n": {
+            "name": "Plazomicin"
+        }
+    },
+    {
+        "n": {
+            "name": "Rifampicin"
+        }
+    },
+    {
+        "n": {
+            "name": "Rifapentine"
+        }
+    },
+    {
+        "n": {
+            "name": "Riociguat"
+        }
+    },
+    {
+        "n": {
+            "name": "Salsalate"
+        }
+    },
+    {
+        "n": {
+            "name": "Tolevamer"
+        }
+    },
+    {
+        "n": {
+            "name": "Salicylic acid (sodium)"
+        }
+    },
+    {
+        "n": {
+            "name": "St. John's Wort"
+        }
+    },
+    {
+        "n": {
+            "name": "Stiripentol"
+        }
+    },
+    {
+        "n": {
+            "name": "Tobramycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Acitretin"
+        }
+    },
+    {
+        "n": {
+            "name": "Aclidinium"
+        }
+    },
+    {
+        "n": {
+            "name": "Prucalopride"
+        }
+    },
+    {
+        "n": {
+            "name": "Ephedrine (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Epinephrine (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Epinephrine (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Acrivastine"
+        }
+    },
+    {
+        "n": {
+            "name": "Amiloride"
+        }
+    },
+    {
+        "n": {
+            "name": "Aminolevulinic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Aminolevulinic acid (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Amobarbital"
+        }
+    },
+    {
+        "n": {
+            "name": "Amoxicillin"
+        }
+    },
+    {
+        "n": {
+            "name": "Ampicillin"
+        }
+    },
+    {
+        "n": {
+            "name": "Balsalazide"
+        }
+    },
+    {
+        "n": {
+            "name": "Bifidobacterium longum infantis"
+        }
+    },
+    {
+        "n": {
+            "name": "Bismuth subcitrate potassium"
+        }
+    },
+    {
+        "n": {
+            "name": "Bismuth subgallate"
+        }
+    },
+    {
+        "n": {
+            "name": "Bismuth subsalicylate"
+        }
+    },
+    {
+        "n": {
+            "name": "Butabarbital"
+        }
+    },
+    {
+        "n": {
+            "name": "Butalbital"
+        }
+    },
+    {
+        "n": {
+            "name": "Calcium chloride"
+        }
+    },
+    {
+        "n": {
+            "name": "Calcium glucoheptonate"
+        }
+    },
+    {
+        "n": {
+            "name": "Carbamazepine"
+        }
+    },
+    {
+        "n": {
+            "name": "Carbenicillin"
+        }
+    },
+    {
+        "n": {
+            "name": "Vibrio cholerae CVD 103-HgR strain live antigen (live)"
+        }
+    },
+    {
+        "n": {
+            "name": "Cloxacillin"
+        }
+    },
+    {
+        "n": {
+            "name": "Colestipol"
+        }
+    },
+    {
+        "n": {
+            "name": "Collagenase clostridium histolyticum"
+        }
+    },
+    {
+        "n": {
+            "name": "Dicloxacillin"
+        }
+    },
+    {
+        "n": {
+            "name": "Ethotoin"
+        }
+    },
+    {
+        "n": {
+            "name": "Tetraferric tricitrate decahydrate"
+        }
+    },
+    {
+        "n": {
+            "name": "Indium In-111 oxyquinoline"
+        }
+    },
+    {
+        "n": {
+            "name": "Isosorbide"
+        }
+    },
+    {
+        "n": {
+            "name": "Lactobacillus acidophilus"
+        }
+    },
+    {
+        "n": {
+            "name": "Lanthanum carbonate"
+        }
+    },
+    {
+        "n": {
+            "name": "Magnesium glycinate"
+        }
+    },
+    {
+        "n": {
+            "name": "Mephenytoin"
+        }
+    },
+    {
+        "n": {
+            "name": "Methylphenobarbital"
+        }
+    },
+    {
+        "n": {
+            "name": "Meticillin"
+        }
+    },
+    {
+        "n": {
+            "name": "Methohexital"
+        }
+    },
+    {
+        "n": {
+            "name": "Methoxsalen"
+        }
+    },
+    {
+        "n": {
+            "name": "Methoxyflurane"
+        }
+    },
+    {
+        "n": {
+            "name": "Methyl aminolevulinate (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Mezlocillin"
+        }
+    },
+    {
+        "n": {
+            "name": "Mycophenolic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Nafcillin"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxacillin"
+        }
+    },
+    {
+        "n": {
+            "name": "Benzylpenicillin"
+        }
+    },
+    {
+        "n": {
+            "name": "Benzylpenicillin (potassium)"
+        }
+    },
+    {
+        "n": {
+            "name": "Benzylpenicillin (sodium)"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenoxymethylpenicillin"
+        }
+    },
+    {
+        "n": {
+            "name": "Pentobarbital"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenobarbital"
+        }
+    },
+    {
+        "n": {
+            "name": "Piperacillin"
+        }
+    },
+    {
+        "n": {
+            "name": "Primidone"
+        }
+    },
+    {
+        "n": {
+            "name": "Quinapril"
+        }
+    },
+    {
+        "n": {
+            "name": "Rifabutin"
+        }
+    },
+    {
+        "n": {
+            "name": "Secobarbital"
+        }
+    },
+    {
+        "n": {
+            "name": "Sodium acetate"
+        }
+    },
+    {
+        "n": {
+            "name": "Sodium citrate"
+        }
+    },
+    {
+        "n": {
+            "name": "Lactic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Spironolactone"
+        }
+    },
+    {
+        "n": {
+            "name": "Iron sucrose"
+        }
+    },
+    {
+        "n": {
+            "name": "Thiopental"
+        }
+    },
+    {
+        "n": {
+            "name": "Ticarcillin"
+        }
+    },
+    {
+        "n": {
+            "name": "Tretinoin"
+        }
+    },
+    {
+        "n": {
+            "name": "Tromethamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Typhoid vaccine (live)"
+        }
+    },
+    {
+        "n": {
+            "name": "Verteporfin"
+        }
+    },
+    {
+        "n": {
+            "name": "Mesalazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Olsalazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Potassium bicarbonate"
+        }
+    },
+    {
+        "n": {
+            "name": "Potassium gluconate"
+        }
+    },
+    {
+        "n": {
+            "name": "Sulfasalazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Vancomycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Ketorolac (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Prednisolone (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Acyclovir"
+        }
+    },
+    {
+        "n": {
+            "name": "Clostridium tetani toxoid antigen (formaldehyde inactivated)"
+        }
+    },
+    {
+        "n": {
+            "name": "Budesonide (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Fidaxomicin"
+        }
+    },
+    {
+        "n": {
+            "name": "Adalimumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Trastuzumab emtansine"
+        }
+    },
+    {
+        "n": {
+            "name": "Atenolol"
+        }
+    },
+    {
+        "n": {
+            "name": "Betaxolol"
+        }
+    },
+    {
+        "n": {
+            "name": "Betaxolol (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Bisoprolol"
+        }
+    },
+    {
+        "n": {
+            "name": "Carteolol"
+        }
+    },
+    {
+        "n": {
+            "name": "Carteolol (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Carvedilol"
+        }
+    },
+    {
+        "n": {
+            "name": "Cocaine (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Cocaine (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Deserpidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Desflurane"
+        }
+    },
+    {
+        "n": {
+            "name": "Desmopressin"
+        }
+    },
+    {
+        "n": {
+            "name": "Desvenlafaxine"
+        }
+    },
+    {
+        "n": {
+            "name": "Enflurane"
+        }
+    },
+    {
+        "n": {
+            "name": "Entacapone"
+        }
+    },
+    {
+        "n": {
+            "name": "Epoprostenol"
+        }
+    },
+    {
+        "n": {
+            "name": "Esmolol"
+        }
+    },
+    {
+        "n": {
+            "name": "Guanadrel"
+        }
+    },
+    {
+        "n": {
+            "name": "Iloprost"
+        }
+    },
+    {
+        "n": {
+            "name": "Isoflurane"
+        }
+    },
+    {
+        "n": {
+            "name": "Labetalol"
+        }
+    },
+    {
+        "n": {
+            "name": "Levobetaxolol (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Levobunolol (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Levodopa"
+        }
+    },
+    {
+        "n": {
+            "name": "Loxapine"
+        }
+    },
+    {
+        "n": {
+            "name": "Mecamylamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Methyldopa"
+        }
+    },
+    {
+        "n": {
+            "name": "Metipranolol (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Metoprolol"
+        }
+    },
+    {
+        "n": {
+            "name": "Molindone"
+        }
+    },
+    {
+        "n": {
+            "name": "Nadolol"
+        }
+    },
+    {
+        "n": {
+            "name": "Nebivolol"
+        }
+    },
+    {
+        "n": {
+            "name": "Opicapone"
+        }
+    },
+    {
+        "n": {
+            "name": "Penbutolol"
+        }
+    },
+    {
+        "n": {
+            "name": "Pindolol"
+        }
+    },
+    {
+        "n": {
+            "name": "Propranolol"
+        }
+    },
+    {
+        "n": {
+            "name": "Rasagiline"
+        }
+    },
+    {
+        "n": {
+            "name": "Reserpine"
+        }
+    },
+    {
+        "n": {
+            "name": "Selexipag"
+        }
+    },
+    {
+        "n": {
+            "name": "Tapentadol"
+        }
+    },
+    {
+        "n": {
+            "name": "Thiothixene"
+        }
+    },
+    {
+        "n": {
+            "name": "Timolol"
+        }
+    },
+    {
+        "n": {
+            "name": "Timolol (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Tolcapone"
+        }
+    },
+    {
+        "n": {
+            "name": "Treprostinil"
+        }
+    },
+    {
+        "n": {
+            "name": "Antihemophilic factor, human recombinant"
+        }
+    },
+    {
+        "n": {
+            "name": "Pegvaliase"
+        }
+    },
+    {
+        "n": {
+            "name": "Flunisolide"
+        }
+    },
+    {
+        "n": {
+            "name": "Afatinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Chenodeoxycholic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Tegaserod"
+        }
+    },
+    {
+        "n": {
+            "name": "Agalsidase beta"
+        }
+    },
+    {
+        "n": {
+            "name": "Migalastat"
+        }
+    },
+    {
+        "n": {
+            "name": "Human adenovirus e serotype 4 strain cl-68578 antigen"
+        }
+    },
+    {
+        "n": {
+            "name": "Aldesleukin"
+        }
+    },
+    {
+        "n": {
+            "name": "Alefacept"
+        }
+    },
+    {
+        "n": {
+            "name": "Alemtuzumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Aliskiren"
+        }
+    },
+    {
+        "n": {
+            "name": "Ambenonium"
+        }
+    },
+    {
+        "n": {
+            "name": "Amifampridine"
+        }
+    },
+    {
+        "n": {
+            "name": "Amlodipine"
+        }
+    },
+    {
+        "n": {
+            "name": "Anakinra"
+        }
+    },
+    {
+        "n": {
+            "name": "Anthrax vaccine"
+        }
+    },
+    {
+        "n": {
+            "name": "Atezolizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Azilsartan medoxomil"
+        }
+    },
+    {
+        "n": {
+            "name": "Baricitinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Bacillus calmette-guerin substrain tice live antigen"
+        }
+    },
+    {
+        "n": {
+            "name": "Bempedoic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Benazepril"
+        }
+    },
+    {
+        "n": {
+            "name": "Bexarotene"
+        }
+    },
+    {
+        "n": {
+            "name": "Boceprevir"
+        }
+    },
+    {
+        "n": {
+            "name": "Bosentan"
+        }
+    },
+    {
+        "n": {
+            "name": "Bromfenac"
+        }
+    },
+    {
+        "n": {
+            "name": "Canakinumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Candida albicans"
+        }
+    },
+    {
+        "n": {
+            "name": "Captopril"
+        }
+    },
+    {
+        "n": {
+            "name": "Frangula purshiana bark"
+        }
+    },
+    {
+        "n": {
+            "name": "Celecoxib"
+        }
+    },
+    {
+        "n": {
+            "name": "Cemiplimab"
+        }
+    },
+    {
+        "n": {
+            "name": "Cenobamate"
+        }
+    },
+    {
+        "n": {
+            "name": "Certolizumab pegol"
+        }
+    },
+    {
+        "n": {
+            "name": "Vibrio cholerae CVD 103-HgR strain live antigen"
+        }
+    },
+    {
+        "n": {
+            "name": "Cholestyramine"
+        }
+    },
+    {
+        "n": {
+            "name": "Cladribine"
+        }
+    },
+    {
+        "n": {
+            "name": "Clevidipine"
+        }
+    },
+    {
+        "n": {
+            "name": "Clonidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Cobicistat"
+        }
+    },
+    {
+        "n": {
+            "name": "Coccidioides immitis spherule"
+        }
+    },
+    {
+        "n": {
+            "name": "Colesevelam"
+        }
+    },
+    {
+        "n": {
+            "name": "Denosumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Desirudin"
+        }
+    },
+    {
+        "n": {
+            "name": "Diflunisal"
+        }
+    },
+    {
+        "n": {
+            "name": "Diltiazem"
+        }
+    },
+    {
+        "n": {
+            "name": "Dimethyl fumarate"
+        }
+    },
+    {
+        "n": {
+            "name": "Dinutuximab"
+        }
+    },
+    {
+        "n": {
+            "name": "Diroximel fumarate"
+        }
+    },
+    {
+        "n": {
+            "name": "Doxazosin"
+        }
+    },
+    {
+        "n": {
+            "name": "Durvalumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Duvelisib"
+        }
+    },
+    {
+        "n": {
+            "name": "Edrophonium"
+        }
+    },
+    {
+        "n": {
+            "name": "Efalizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Enalapril"
+        }
+    },
+    {
+        "n": {
+            "name": "Eplerenone"
+        }
+    },
+    {
+        "n": {
+            "name": "Eprosartan"
+        }
+    },
+    {
+        "n": {
+            "name": "Etanercept"
+        }
+    },
+    {
+        "n": {
+            "name": "Felodipine"
+        }
+    },
+    {
+        "n": {
+            "name": "Fenoldopam"
+        }
+    },
+    {
+        "n": {
+            "name": "Fluoxymesterone"
+        }
+    },
+    {
+        "n": {
+            "name": "Fosinopril"
+        }
+    },
+    {
+        "n": {
+            "name": "Gallium chloride Ga-67"
+        }
+    },
+    {
+        "n": {
+            "name": "Golimumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Guanabenz"
+        }
+    },
+    {
+        "n": {
+            "name": "Guanfacine"
+        }
+    },
+    {
+        "n": {
+            "name": "Hepatitis A Vaccine"
+        }
+    },
+    {
+        "n": {
+            "name": "Hepatitis B Vaccine (Recombinant)"
+        }
+    },
+    {
+        "n": {
+            "name": "Human papillomavirus type 11 L1 capsid protein antigen"
+        }
+    },
+    {
+        "n": {
+            "name": "Hyaluronidase"
+        }
+    },
+    {
+        "n": {
+            "name": "Hydralazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Imatinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Infliximab"
+        }
+    },
+    {
+        "n": {
+            "name": "Influenza A virus A/California/7/2009 (H1N1)-like antigen (propiolactone inactivated)"
+        }
+    },
+    {
+        "n": {
+            "name": "Influenza A virus A/Vietnam/1194/2004 (H5N1) antigen (formaldehyde inactivated)"
+        }
+    },
+    {
+        "n": {
+            "name": "Iohexol"
+        }
+    },
+    {
+        "n": {
+            "name": "Iopamidol"
+        }
+    },
+    {
+        "n": {
+            "name": "Ipilimumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Irbesartan"
+        }
+    },
+    {
+        "n": {
+            "name": "Isavuconazonium"
+        }
+    },
+    {
+        "n": {
+            "name": "Isradipine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ivacaftor"
+        }
+    },
+    {
+        "n": {
+            "name": "Larotrectinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Letermovir"
+        }
+    },
+    {
+        "n": {
+            "name": "Levamlodipine"
+        }
+    },
+    {
+        "n": {
+            "name": "Licorice"
+        }
+    },
+    {
+        "n": {
+            "name": "Lisinopril"
+        }
+    },
+    {
+        "n": {
+            "name": "Lonafarnib"
+        }
+    },
+    {
+        "n": {
+            "name": "Lorlatinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Losartan"
+        }
+    },
+    {
+        "n": {
+            "name": "Lusutrombopag"
+        }
+    },
+    {
+        "n": {
+            "name": "Lyme disease vaccine (recombinant OspA)"
+        }
+    },
+    {
+        "n": {
+            "name": "Macimorelin"
+        }
+    },
+    {
+        "n": {
+            "name": "Measles virus vaccine live attenuated"
+        }
+    },
+    {
+        "n": {
+            "name": "Meloxicam"
+        }
+    },
+    {
+        "n": {
+            "name": "Meningococcal polysaccharide vaccine group C"
+        }
+    },
+    {
+        "n": {
+            "name": "Methyltestosterone"
+        }
+    },
+    {
+        "n": {
+            "name": "Minoxidil"
+        }
+    },
+    {
+        "n": {
+            "name": "Moexipril"
+        }
+    },
+    {
+        "n": {
+            "name": "Monomethyl fumarate"
+        }
+    },
+    {
+        "n": {
+            "name": "Mumps virus strain B level jeryl lynn live antigen"
+        }
+    },
+    {
+        "n": {
+            "name": "Natalizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Nefazodone"
+        }
+    },
+    {
+        "n": {
+            "name": "Neostigmine"
+        }
+    },
+    {
+        "n": {
+            "name": "Nicardipine"
+        }
+    },
+    {
+        "n": {
+            "name": "Nisoldipine"
+        }
+    },
+    {
+        "n": {
+            "name": "Nitroprusside"
+        }
+    },
+    {
+        "n": {
+            "name": "Nivolumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Ocrelizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Olmesartan"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxandrolone"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxcarbazepine"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxymetholone"
+        }
+    },
+    {
+        "n": {
+            "name": "Pembrolizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Perindopril"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenylbutazone"
+        }
+    },
+    {
+        "n": {
+            "name": "Poliovirus type 1 antigen (formaldehyde inactivated)"
+        }
+    },
+    {
+        "n": {
+            "name": "Prazosin"
+        }
+    },
+    {
+        "n": {
+            "name": "Pyridostigmine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ramipril"
+        }
+    },
+    {
+        "n": {
+            "name": "Rilonacept"
+        }
+    },
+    {
+        "n": {
+            "name": "Rofecoxib"
+        }
+    },
+    {
+        "n": {
+            "name": "Roflumilast"
+        }
+    },
+    {
+        "n": {
+            "name": "Romosozumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Rotavirus vaccine"
+        }
+    },
+    {
+        "n": {
+            "name": "Rubella virus vaccine"
+        }
+    },
+    {
+        "n": {
+            "name": "Rufinamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Pfizer-BioNTech Covid-19 Vaccine"
+        }
+    },
+    {
+        "n": {
+            "name": "Sipuleucel-T"
+        }
+    },
+    {
+        "n": {
+            "name": "Smallpox (Vaccinia) Vaccine, Live"
+        }
+    },
+    {
+        "n": {
+            "name": "Iodide I-123"
+        }
+    },
+    {
+        "n": {
+            "name": "Iodide I-131"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenylbutyric acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Stanozolol"
+        }
+    },
+    {
+        "n": {
+            "name": "Talimogene laherparepvec"
+        }
+    },
+    {
+        "n": {
+            "name": "Tazemetostat"
+        }
+    },
+    {
+        "n": {
+            "name": "Telaprevir"
+        }
+    },
+    {
+        "n": {
+            "name": "Telbivudine"
+        }
+    },
+    {
+        "n": {
+            "name": "Telmisartan"
+        }
+    },
+    {
+        "n": {
+            "name": "Telotristat ethyl"
+        }
+    },
+    {
+        "n": {
+            "name": "Terazosin"
+        }
+    },
+    {
+        "n": {
+            "name": "Testosterone"
+        }
+    },
+    {
+        "n": {
+            "name": "Testosterone (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Ticlopidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Tofacitinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Trandolapril"
+        }
+    },
+    {
+        "n": {
+            "name": "Trichophyton mentagrophytes"
+        }
+    },
+    {
+        "n": {
+            "name": "Trimethaphan"
+        }
+    },
+    {
+        "n": {
+            "name": "Troleandomycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Tuberculin purified protein derivative"
+        }
+    },
+    {
+        "n": {
+            "name": "Tucatinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Typhoid vaccine (inactivated)"
+        }
+    },
+    {
+        "n": {
+            "name": "Upadacitinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Ustekinumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Valdecoxib"
+        }
+    },
+    {
+        "n": {
+            "name": "Valsartan"
+        }
+    },
+    {
+        "n": {
+            "name": "Varicella Zoster Vaccine (Recombinant)"
+        }
+    },
+    {
+        "n": {
+            "name": "Verapamil"
+        }
+    },
+    {
+        "n": {
+            "name": "Vigabatrin"
+        }
+    },
+    {
+        "n": {
+            "name": "Vitamin E"
+        }
+    },
+    {
+        "n": {
+            "name": "Voxelotor"
+        }
+    },
+    {
+        "n": {
+            "name": "Yellow Fever Vaccine"
+        }
+    },
+    {
+        "n": {
+            "name": "Zinc chloride"
+        }
+    },
+    {
+        "n": {
+            "name": "Loratadine"
+        }
+    },
+    {
+        "n": {
+            "name": "Albendazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Metronidazole (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Alectinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Cholecalciferol"
+        }
+    },
+    {
+        "n": {
+            "name": "Calcifediol"
+        }
+    },
+    {
+        "n": {
+            "name": "Calcipotriol (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Calcitriol"
+        }
+    },
+    {
+        "n": {
+            "name": "Dihydrotachysterol"
+        }
+    },
+    {
+        "n": {
+            "name": "Doxercalciferol"
+        }
+    },
+    {
+        "n": {
+            "name": "Erdafitinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Ergocalciferol"
+        }
+    },
+    {
+        "n": {
+            "name": "Felbamate"
+        }
+    },
+    {
+        "n": {
+            "name": "Paricalcitol"
+        }
+    },
+    {
+        "n": {
+            "name": "Sevelamer"
+        }
+    },
+    {
+        "n": {
+            "name": "Alfentanil"
+        }
+    },
+    {
+        "n": {
+            "name": "Fondaparinux"
+        }
+    },
+    {
+        "n": {
+            "name": "Fosfomycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Frovatriptan"
+        }
+    },
+    {
+        "n": {
+            "name": "Gabapentin"
+        }
+    },
+    {
+        "n": {
+            "name": "Gallium nitrate"
+        }
+    },
+    {
+        "n": {
+            "name": "Ganciclovir"
+        }
+    },
+    {
+        "n": {
+            "name": "Gemfibrozil"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenyltoloxamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Nitazoxanide"
+        }
+    },
+    {
+        "n": {
+            "name": "Zonisamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Cetirizine"
+        }
+    },
+    {
+        "n": {
+            "name": "Allopurinol"
+        }
+    },
+    {
+        "n": {
+            "name": "Almotriptan"
+        }
+    },
+    {
+        "n": {
+            "name": "Cephalexin"
+        }
+    },
+    {
+        "n": {
+            "name": "Daclatasvir"
+        }
+    },
+    {
+        "n": {
+            "name": "Dalfampridine"
+        }
+    },
+    {
+        "n": {
+            "name": "Diatrizoate"
+        }
+    },
+    {
+        "n": {
+            "name": "Diamorphine"
+        }
+    },
+    {
+        "n": {
+            "name": "Iodipamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Iodixanol"
+        }
+    },
+    {
+        "n": {
+            "name": "Iopromide"
+        }
+    },
+    {
+        "n": {
+            "name": "Iothalamic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Ioversol"
+        }
+    },
+    {
+        "n": {
+            "name": "Ioxilan"
+        }
+    },
+    {
+        "n": {
+            "name": "Lamotrigine"
+        }
+    },
+    {
+        "n": {
+            "name": "Olaparib"
+        }
+    },
+    {
+        "n": {
+            "name": "Ospemifene"
+        }
+    },
+    {
+        "n": {
+            "name": "Risdiplam"
+        }
+    },
+    {
+        "n": {
+            "name": "Tafenoquine"
+        }
+    },
+    {
+        "n": {
+            "name": "Topiramate"
+        }
+    },
+    {
+        "n": {
+            "name": "Trimethoprim"
+        }
+    },
+    {
+        "n": {
+            "name": "Aminoglutethimide"
+        }
+    },
+    {
+        "n": {
+            "name": "Pregabalin"
+        }
+    },
+    {
+        "n": {
+            "name": "Ripretinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Vilazodone"
+        }
+    },
+    {
+        "n": {
+            "name": "Givosiran"
+        }
+    },
+    {
+        "n": {
+            "name": "Mexiletine"
+        }
+    },
+    {
+        "n": {
+            "name": "Niclosamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Thiabendazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Zileuton"
+        }
+    },
+    {
+        "n": {
+            "name": "Rifaximin"
+        }
+    },
+    {
+        "n": {
+            "name": "Coagulation Factor IX Human"
+        }
+    },
+    {
+        "n": {
+            "name": "Alprazolam"
+        }
+    },
+    {
+        "n": {
+            "name": "Teduglutide"
+        }
+    },
+    {
+        "n": {
+            "name": "Alprostadil"
+        }
+    },
+    {
+        "n": {
+            "name": "Sapropterin"
+        }
+    },
+    {
+        "n": {
+            "name": "Sumatriptan"
+        }
+    },
+    {
+        "n": {
+            "name": "Tetracaine (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Alteplase"
+        }
+    },
+    {
+        "n": {
+            "name": "Altretamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Pyridoxine"
+        }
+    },
+    {
+        "n": {
+            "name": "Butorphanol"
+        }
+    },
+    {
+        "n": {
+            "name": "Dezocine"
+        }
+    },
+    {
+        "n": {
+            "name": "Hydrocodone"
+        }
+    },
+    {
+        "n": {
+            "name": "Hydromorphone"
+        }
+    },
+    {
+        "n": {
+            "name": "Levorphanol"
+        }
+    },
+    {
+        "n": {
+            "name": "Meperidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Methylnaltrexone"
+        }
+    },
+    {
+        "n": {
+            "name": "Nalbuphine"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxycodone"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxymorphone"
+        }
+    },
+    {
+        "n": {
+            "name": "Pentazocine"
+        }
+    },
+    {
+        "n": {
+            "name": "Venetoclax"
+        }
+    },
+    {
+        "n": {
+            "name": "Amantadine"
+        }
+    },
+    {
+        "n": {
+            "name": "Diclofenac (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Lidocaine (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Human botulinum neurotoxin A/B immune globulin"
+        }
+    },
+    {
+        "n": {
+            "name": "Chlorambucil"
+        }
+    },
+    {
+        "n": {
+            "name": "Cidofovir"
+        }
+    },
+    {
+        "n": {
+            "name": "Cyclophosphamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Human cytomegalovirus immune globulin"
+        }
+    },
+    {
+        "n": {
+            "name": "Etidronic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Flucytosine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ibandronate"
+        }
+    },
+    {
+        "n": {
+            "name": "Ifosfamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Human immunoglobulin G (intravenous)"
+        }
+    },
+    {
+        "n": {
+            "name": "Human immunoglobulin G (intravenous and subcutaneous)"
+        }
+    },
+    {
+        "n": {
+            "name": "Inotersen"
+        }
+    },
+    {
+        "n": {
+            "name": "Melphalan"
+        }
+    },
+    {
+        "n": {
+            "name": "Micafungin"
+        }
+    },
+    {
+        "n": {
+            "name": "Pamidronic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Radium Ra 223 dichloride"
+        }
+    },
+    {
+        "n": {
+            "name": "Human Rho(D) immune globulin"
+        }
+    },
+    {
+        "n": {
+            "name": "Sodium phosphate, monobasic (p32)"
+        }
+    },
+    {
+        "n": {
+            "name": "Strontium chloride Sr-89"
+        }
+    },
+    {
+        "n": {
+            "name": "Uracil mustard"
+        }
+    },
+    {
+        "n": {
+            "name": "Valganciclovir"
+        }
+    },
+    {
+        "n": {
+            "name": "Zoledronic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Ambrisentan"
+        }
+    },
+    {
+        "n": {
+            "name": "Amifostine"
+        }
+    },
+    {
+        "n": {
+            "name": "Neomycin (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Doxycycline (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Minocycline (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Tetracycline (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Aminosalicylic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Chlordiazepoxide"
+        }
+    },
+    {
+        "n": {
+            "name": "Atorvastatin"
+        }
+    },
+    {
+        "n": {
+            "name": "Demeclocycline"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxytetracycline"
+        }
+    },
+    {
+        "n": {
+            "name": "Sarecycline"
+        }
+    },
+    {
+        "n": {
+            "name": "Clavulanic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Glutamic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Arbutamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Azatadine"
+        }
+    },
+    {
+        "n": {
+            "name": "Belladonna"
+        }
+    },
+    {
+        "n": {
+            "name": "Benzatropine"
+        }
+    },
+    {
+        "n": {
+            "name": "Bethanechol"
+        }
+    },
+    {
+        "n": {
+            "name": "Biperiden"
+        }
+    },
+    {
+        "n": {
+            "name": "Brexanolone"
+        }
+    },
+    {
+        "n": {
+            "name": "Brompheniramine"
+        }
+    },
+    {
+        "n": {
+            "name": "Carbamoylcholine (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Carbinoxamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Cevimeline"
+        }
+    },
+    {
+        "n": {
+            "name": "Chlorcyclizine"
+        }
+    },
+    {
+        "n": {
+            "name": "Clemastine"
+        }
+    },
+    {
+        "n": {
+            "name": "Cyclizine"
+        }
+    },
+    {
+        "n": {
+            "name": "Cyclobenzaprine"
+        }
+    },
+    {
+        "n": {
+            "name": "Cyproheptadine"
+        }
+    },
+    {
+        "n": {
+            "name": "Darifenacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Demecarium (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Dexbrompheniramine"
+        }
+    },
+    {
+        "n": {
+            "name": "Dimenhydrinate"
+        }
+    },
+    {
+        "n": {
+            "name": "Diphenhydramine"
+        }
+    },
+    {
+        "n": {
+            "name": "Doxylamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Echothiophate (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Fesoterodine"
+        }
+    },
+    {
+        "n": {
+            "name": "Flavoxate"
+        }
+    },
+    {
+        "n": {
+            "name": "Guanidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ipratropium"
+        }
+    },
+    {
+        "n": {
+            "name": "Ipratropium (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Isoflurophate (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Meclizine"
+        }
+    },
+    {
+        "n": {
+            "name": "Nitrofurantoin"
+        }
+    },
+    {
+        "n": {
+            "name": "Nitroglycerin"
+        }
+    },
+    {
+        "n": {
+            "name": "Olopatadine (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Orphenadrine"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxybutynin"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenindamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenylephrine (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Physostigmine (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Pilocarpine"
+        }
+    },
+    {
+        "n": {
+            "name": "Pilocarpine (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Procyclidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Mepyramine"
+        }
+    },
+    {
+        "n": {
+            "name": "Remifentanil"
+        }
+    },
+    {
+        "n": {
+            "name": "Revefenacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Botulinum Toxin Type B"
+        }
+    },
+    {
+        "n": {
+            "name": "Secretin human"
+        }
+    },
+    {
+        "n": {
+            "name": "Sufentanil"
+        }
+    },
+    {
+        "n": {
+            "name": "Tiotropium"
+        }
+    },
+    {
+        "n": {
+            "name": "Tolterodine"
+        }
+    },
+    {
+        "n": {
+            "name": "Trihexyphenidyl"
+        }
+    },
+    {
+        "n": {
+            "name": "Tripelennamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Triprolidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Umeclidinium"
+        }
+    },
+    {
+        "n": {
+            "name": "Omega-3 fatty acids"
+        }
+    },
+    {
+        "n": {
+            "name": "Misoprostol"
+        }
+    },
+    {
+        "n": {
+            "name": "Apraclonidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Brimonidine (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Brimonidine (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Cabozantinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Elagolix"
+        }
+    },
+    {
+        "n": {
+            "name": "Esketamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ibrutinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Istradefylline"
+        }
+    },
+    {
+        "n": {
+            "name": "Levocetirizine"
+        }
+    },
+    {
+        "n": {
+            "name": "Perflutren"
+        }
+    },
+    {
+        "n": {
+            "name": "Ulipristal"
+        }
+    },
+    {
+        "n": {
+            "name": "Prilocaine (topiclal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Fenofibrate"
+        }
+    },
+    {
+        "n": {
+            "name": "Antithrombin III human"
+        }
+    },
+    {
+        "n": {
+            "name": "Antithrombin Alfa"
+        }
+    },
+    {
+        "n": {
+            "name": "Antilymphocyte immunoglobulin (horse)"
+        }
+    },
+    {
+        "n": {
+            "name": "Antithymocyte immunoglobulin (rabbit)"
+        }
+    },
+    {
+        "n": {
+            "name": "Homatropine"
+        }
+    },
+    {
+        "n": {
+            "name": "Apixaban"
+        }
+    },
+    {
+        "n": {
+            "name": "Amyl Nitrite"
+        }
+    },
+    {
+        "n": {
+            "name": "Blinatumomab"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefiderocol"
+        }
+    },
+    {
+        "n": {
+            "name": "Chloral hydrate"
+        }
+    },
+    {
+        "n": {
+            "name": "Chlormezanone"
+        }
+    },
+    {
+        "n": {
+            "name": "Clobazam"
+        }
+    },
+    {
+        "n": {
+            "name": "Clonazepam"
+        }
+    },
+    {
+        "n": {
+            "name": "Clorazepic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Cycloserine"
+        }
+    },
+    {
+        "n": {
+            "name": "Diazepam"
+        }
+    },
+    {
+        "n": {
+            "name": "Valproic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Ertapenem"
+        }
+    },
+    {
+        "n": {
+            "name": "Estazolam"
+        }
+    },
+    {
+        "n": {
+            "name": "Eszopiclone"
+        }
+    },
+    {
+        "n": {
+            "name": "Ethchlorvynol"
+        }
+    },
+    {
+        "n": {
+            "name": "Flurazepam"
+        }
+    },
+    {
+        "n": {
+            "name": "Ginkgo biloba"
+        }
+    },
+    {
+        "n": {
+            "name": "Halazepam"
+        }
+    },
+    {
+        "n": {
+            "name": "Interferon alfa-2a, Recombinant"
+        }
+    },
+    {
+        "n": {
+            "name": "Interferon alfa-2b"
+        }
+    },
+    {
+        "n": {
+            "name": "Interferon alfa-n1"
+        }
+    },
+    {
+        "n": {
+            "name": "Interferon alfa-n3"
+        }
+    },
+    {
+        "n": {
+            "name": "Interferon alfacon-1"
+        }
+    },
+    {
+        "n": {
+            "name": "Interferon gamma-1b"
+        }
+    },
+    {
+        "n": {
+            "name": "Iobenguane (I-131)"
+        }
+    },
+    {
+        "n": {
+            "name": "Ioflupane I-123"
+        }
+    },
+    {
+        "n": {
+            "name": "Isosorbide dinitrate"
+        }
+    },
+    {
+        "n": {
+            "name": "Isosorbide mononitrate"
+        }
+    },
+    {
+        "n": {
+            "name": "Lindane"
+        }
+    },
+    {
+        "n": {
+            "name": "Lorazepam"
+        }
+    },
+    {
+        "n": {
+            "name": "Meprobamate"
+        }
+    },
+    {
+        "n": {
+            "name": "Meropenem"
+        }
+    },
+    {
+        "n": {
+            "name": "Muromonab"
+        }
+    },
+    {
+        "n": {
+            "name": "Nelarabine"
+        }
+    },
+    {
+        "n": {
+            "name": "Nimodipine"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxamniquine"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxazepam"
+        }
+    },
+    {
+        "n": {
+            "name": "Paraldehyde"
+        }
+    },
+    {
+        "n": {
+            "name": "Paroxetine"
+        }
+    },
+    {
+        "n": {
+            "name": "Peginterferon alfa-2a"
+        }
+    },
+    {
+        "n": {
+            "name": "Peginterferon alfa-2b"
+        }
+    },
+    {
+        "n": {
+            "name": "Pemoline"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenoxybenzamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Phentolamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Piperazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Pirfenidone"
+        }
+    },
+    {
+        "n": {
+            "name": "Quazepam"
+        }
+    },
+    {
+        "n": {
+            "name": "Remimazolam"
+        }
+    },
+    {
+        "n": {
+            "name": "Rimantadine"
+        }
+    },
+    {
+        "n": {
+            "name": "Silodosin"
+        }
+    },
+    {
+        "n": {
+            "name": "Sodium oxybate"
+        }
+    },
+    {
+        "n": {
+            "name": "Tamsulosin"
+        }
+    },
+    {
+        "n": {
+            "name": "Temazepam"
+        }
+    },
+    {
+        "n": {
+            "name": "Thiotepa"
+        }
+    },
+    {
+        "n": {
+            "name": "Vortioxetine"
+        }
+    },
+    {
+        "n": {
+            "name": "Zaleplon"
+        }
+    },
+    {
+        "n": {
+            "name": "Zolpidem"
+        }
+    },
+    {
+        "n": {
+            "name": "Apremilast"
+        }
+    },
+    {
+        "n": {
+            "name": "Avanafil"
+        }
+    },
+    {
+        "n": {
+            "name": "Avapritinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Bupivacaine"
+        }
+    },
+    {
+        "n": {
+            "name": "Buspirone"
+        }
+    },
+    {
+        "n": {
+            "name": "Busulfan"
+        }
+    },
+    {
+        "n": {
+            "name": "Cabazitaxel"
+        }
+    },
+    {
+        "n": {
+            "name": "Cerivastatin"
+        }
+    },
+    {
+        "n": {
+            "name": "Chloramphenicol"
+        }
+    },
+    {
+        "n": {
+            "name": "Cilostazol"
+        }
+    },
+    {
+        "n": {
+            "name": "Cobimetinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Colchicine"
+        }
+    },
+    {
+        "n": {
+            "name": "Dapsone"
+        }
+    },
+    {
+        "n": {
+            "name": "Darolutamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Docetaxel"
+        }
+    },
+    {
+        "n": {
+            "name": "Doravirine"
+        }
+    },
+    {
+        "n": {
+            "name": "Dutasteride"
+        }
+    },
+    {
+        "n": {
+            "name": "Eletriptan"
+        }
+    },
+    {
+        "n": {
+            "name": "Eslicarbazepine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ethosuximide"
+        }
+    },
+    {
+        "n": {
+            "name": "Etoposide"
+        }
+    },
+    {
+        "n": {
+            "name": "Fluticasone"
+        }
+    },
+    {
+        "n": {
+            "name": "Fluticasone (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Fluvastatin"
+        }
+    },
+    {
+        "n": {
+            "name": "Griseofulvin"
+        }
+    },
+    {
+        "n": {
+            "name": "Irinotecan"
+        }
+    },
+    {
+        "n": {
+            "name": "Irinotecan (liposomal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Ivermectin"
+        }
+    },
+    {
+        "n": {
+            "name": "Ixabepilone"
+        }
+    },
+    {
+        "n": {
+            "name": "Lesinurad"
+        }
+    },
+    {
+        "n": {
+            "name": "Letrozole"
+        }
+    },
+    {
+        "n": {
+            "name": "Levobupivacaine"
+        }
+    },
+    {
+        "n": {
+            "name": "Lovastatin"
+        }
+    },
+    {
+        "n": {
+            "name": "Lurbinectedin"
+        }
+    },
+    {
+        "n": {
+            "name": "Macitentan"
+        }
+    },
+    {
+        "n": {
+            "name": "Maraviroc"
+        }
+    },
+    {
+        "n": {
+            "name": "Mirabegron"
+        }
+    },
+    {
+        "n": {
+            "name": "Mitotane"
+        }
+    },
+    {
+        "n": {
+            "name": "Paclitaxel (protein-bound)"
+        }
+    },
+    {
+        "n": {
+            "name": "Palbociclib"
+        }
+    },
+    {
+        "n": {
+            "name": "Pemigatinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Pimecrolimus (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Polatuzumab vedotin"
+        }
+    },
+    {
+        "n": {
+            "name": "Pralsetinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Retapamulin (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Rimegepant"
+        }
+    },
+    {
+        "n": {
+            "name": "Rivaroxaban"
+        }
+    },
+    {
+        "n": {
+            "name": "Ropivacaine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ruxolitinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Selumetinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Sildenafil"
+        }
+    },
+    {
+        "n": {
+            "name": "Sulfinpyrazone"
+        }
+    },
+    {
+        "n": {
+            "name": "Suvorexant"
+        }
+    },
+    {
+        "n": {
+            "name": "Tadalafil"
+        }
+    },
+    {
+        "n": {
+            "name": "Tasimelteon"
+        }
+    },
+    {
+        "n": {
+            "name": "Teniposide"
+        }
+    },
+    {
+        "n": {
+            "name": "Tiagabine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ticagrelor"
+        }
+    },
+    {
+        "n": {
+            "name": "Tolvaptan"
+        }
+    },
+    {
+        "n": {
+            "name": "Ubrogepant"
+        }
+    },
+    {
+        "n": {
+            "name": "Vinblastine"
+        }
+    },
+    {
+        "n": {
+            "name": "Vincristine"
+        }
+    },
+    {
+        "n": {
+            "name": "Vincristine (liposome)"
+        }
+    },
+    {
+        "n": {
+            "name": "Vinorelbine"
+        }
+    },
+    {
+        "n": {
+            "name": "Zafirlukast"
+        }
+    },
+    {
+        "n": {
+            "name": "Zanubrutinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Desogestrel"
+        }
+    },
+    {
+        "n": {
+            "name": "Azathioprine"
+        }
+    },
+    {
+        "n": {
+            "name": "Bacitracin"
+        }
+    },
+    {
+        "n": {
+            "name": "Colistimethate"
+        }
+    },
+    {
+        "n": {
+            "name": "Lutetium Lu 177 dotatate"
+        }
+    },
+    {
+        "n": {
+            "name": "Mercaptopurine"
+        }
+    },
+    {
+        "n": {
+            "name": "Moxetumomab Pasudotox"
+        }
+    },
+    {
+        "n": {
+            "name": "Valaciclovir"
+        }
+    },
+    {
+        "n": {
+            "name": "Lumefantrine"
+        }
+    },
+    {
+        "n": {
+            "name": "Artemether"
+        }
+    },
+    {
+        "n": {
+            "name": "Articaine"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxitriptan"
+        }
+    },
+    {
+        "n": {
+            "name": "Azelastine (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Baclofen"
+        }
+    },
+    {
+        "n": {
+            "name": "Brivaracetam"
+        }
+    },
+    {
+        "n": {
+            "name": "Salmon calcitonin"
+        }
+    },
+    {
+        "n": {
+            "name": "Pentoxyverine"
+        }
+    },
+    {
+        "n": {
+            "name": "Carisoprodol"
+        }
+    },
+    {
+        "n": {
+            "name": "Clofedanol"
+        }
+    },
+    {
+        "n": {
+            "name": "Chlorphenesin"
+        }
+    },
+    {
+        "n": {
+            "name": "Chlorzoxazone"
+        }
+    },
+    {
+        "n": {
+            "name": "Dantrolene"
+        }
+    },
+    {
+        "n": {
+            "name": "Dexmedetomidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Fospropofol"
+        }
+    },
+    {
+        "n": {
+            "name": "Kava"
+        }
+    },
+    {
+        "n": {
+            "name": "Ketamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Levetiracetam"
+        }
+    },
+    {
+        "n": {
+            "name": "Mebrofenin"
+        }
+    },
+    {
+        "n": {
+            "name": "Metaxalone"
+        }
+    },
+    {
+        "n": {
+            "name": "Methocarbamol"
+        }
+    },
+    {
+        "n": {
+            "name": "Methsuximide"
+        }
+    },
+    {
+        "n": {
+            "name": "Metyrosine"
+        }
+    },
+    {
+        "n": {
+            "name": "Naratriptan"
+        }
+    },
+    {
+        "n": {
+            "name": "Nitrous oxide"
+        }
+    },
+    {
+        "n": {
+            "name": "Paramethadione"
+        }
+    },
+    {
+        "n": {
+            "name": "Perampanel"
+        }
+    },
+    {
+        "n": {
+            "name": "Pergolide"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenacemide"
+        }
+    },
+    {
+        "n": {
+            "name": "Phensuximide"
+        }
+    },
+    {
+        "n": {
+            "name": "Rizatriptan"
+        }
+    },
+    {
+        "n": {
+            "name": "Ropinirole"
+        }
+    },
+    {
+        "n": {
+            "name": "Rotigotine"
+        }
+    },
+    {
+        "n": {
+            "name": "Terbinafine"
+        }
+    },
+    {
+        "n": {
+            "name": "Trimethadione"
+        }
+    },
+    {
+        "n": {
+            "name": "Trimethobenzamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Tryptophan"
+        }
+    },
+    {
+        "n": {
+            "name": "Valerian"
+        }
+    },
+    {
+        "n": {
+            "name": "Yohimbine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ziconotide"
+        }
+    },
+    {
+        "n": {
+            "name": "Zolmitriptan"
+        }
+    },
+    {
+        "n": {
+            "name": "Deferoxamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Anistreplase"
+        }
+    },
+    {
+        "n": {
+            "name": "Betrixaban"
+        }
+    },
+    {
+        "n": {
+            "name": "Brinzolamide (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Bromfenac (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Chamomile"
+        }
+    },
+    {
+        "n": {
+            "name": "Dalteparin"
+        }
+    },
+    {
+        "n": {
+            "name": "Defibrotide"
+        }
+    },
+    {
+        "n": {
+            "name": "Deoxycholic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Dipyridamole"
+        }
+    },
+    {
+        "n": {
+            "name": "Dorzolamide (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Drotrecogin alfa"
+        }
+    },
+    {
+        "n": {
+            "name": "Flurbiprofen (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Heparin"
+        }
+    },
+    {
+        "n": {
+            "name": "Ibritumomab tiuxetan"
+        }
+    },
+    {
+        "n": {
+            "name": "Icosapent"
+        }
+    },
+    {
+        "n": {
+            "name": "Tositumomab (I-131)"
+        }
+    },
+    {
+        "n": {
+            "name": "Nepafenac (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Pentosan polysulfate"
+        }
+    },
+    {
+        "n": {
+            "name": "Pralatrexate"
+        }
+    },
+    {
+        "n": {
+            "name": "Ramucirumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Reteplase"
+        }
+    },
+    {
+        "n": {
+            "name": "Risedronic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Streptokinase"
+        }
+    },
+    {
+        "n": {
+            "name": "Tenecteplase"
+        }
+    },
+    {
+        "n": {
+            "name": "Tiludronic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Tinzaparin"
+        }
+    },
+    {
+        "n": {
+            "name": "Tositumomab"
+        }
+    },
+    {
+        "n": {
+            "name": "Urokinase"
+        }
+    },
+    {
+        "n": {
+            "name": "Ardeparin"
+        }
+    },
+    {
+        "n": {
+            "name": "Argatroban"
+        }
+    },
+    {
+        "n": {
+            "name": "Bendamustine"
+        }
+    },
+    {
+        "n": {
+            "name": "Binimetinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Caplacizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Danaparoid"
+        }
+    },
+    {
+        "n": {
+            "name": "Diclofenac (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Edoxaban"
+        }
+    },
+    {
+        "n": {
+            "name": "Enoxaparin"
+        }
+    },
+    {
+        "n": {
+            "name": "Eptifibatide"
+        }
+    },
+    {
+        "n": {
+            "name": "Ginger"
+        }
+    },
+    {
+        "n": {
+            "name": "Hemin"
+        }
+    },
+    {
+        "n": {
+            "name": "Lepirudin"
+        }
+    },
+    {
+        "n": {
+            "name": "Nintedanib"
+        }
+    },
+    {
+        "n": {
+            "name": "Niraparib"
+        }
+    },
+    {
+        "n": {
+            "name": "Pentoxifylline"
+        }
+    },
+    {
+        "n": {
+            "name": "Regorafenib"
+        }
+    },
+    {
+        "n": {
+            "name": "Suprofen (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Tirofiban"
+        }
+    },
+    {
+        "n": {
+            "name": "Dexamethasone (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Triamcinolone (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Pectin"
+        }
+    },
+    {
+        "n": {
+            "name": "Atovaquone"
+        }
+    },
+    {
+        "n": {
+            "name": "Proguanil"
+        }
+    },
+    {
+        "n": {
+            "name": "Pralidoxime"
+        }
+    },
+    {
+        "n": {
+            "name": "Auranofin"
+        }
+    },
+    {
+        "n": {
+            "name": "Avatrombopag"
+        }
+    },
+    {
+        "n": {
+            "name": "Azelastine (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenazopyridine"
+        }
+    },
+    {
+        "n": {
+            "name": "Methenamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Benzocaine (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Baloxavir marboxil"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefaclor"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefadroxil"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefdinir"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefprozil"
+        }
+    },
+    {
+        "n": {
+            "name": "Ceftibuten"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefradine"
+        }
+    },
+    {
+        "n": {
+            "name": "Clindamycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Lincomycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Sulfadiazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Sulfamethizole"
+        }
+    },
+    {
+        "n": {
+            "name": "Sulfisoxazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Basiliximab"
+        }
+    },
+    {
+        "n": {
+            "name": "Berotralstat"
+        }
+    },
+    {
+        "n": {
+            "name": "Caspofungin"
+        }
+    },
+    {
+        "n": {
+            "name": "Dapsone (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Elvitegravir"
+        }
+    },
+    {
+        "n": {
+            "name": "Exemestane"
+        }
+    },
+    {
+        "n": {
+            "name": "Montelukast"
+        }
+    },
+    {
+        "n": {
+            "name": "Praziquantel"
+        }
+    },
+    {
+        "n": {
+            "name": "Pretomanid"
+        }
+    },
+    {
+        "n": {
+            "name": "Relugolix"
+        }
+    },
+    {
+        "n": {
+            "name": "Simeprevir"
+        }
+    },
+    {
+        "n": {
+            "name": "Thallous Chloride"
+        }
+    },
+    {
+        "n": {
+            "name": "Beclomethasone dipropionate (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Belatacept"
+        }
+    },
+    {
+        "n": {
+            "name": "Belimumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Cabergoline"
+        }
+    },
+    {
+        "n": {
+            "name": "Ezetimibe"
+        }
+    },
+    {
+        "n": {
+            "name": "Benzhydrocodone"
+        }
+    },
+    {
+        "n": {
+            "name": "Hydrocortisone (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Bictegravir"
+        }
+    },
+    {
+        "n": {
+            "name": "Emtricitabine"
+        }
+    },
+    {
+        "n": {
+            "name": "Fludeoxyglucose (18F)"
+        }
+    },
+    {
+        "n": {
+            "name": "Urea"
+        }
+    },
+    {
+        "n": {
+            "name": "Aurothioglucose"
+        }
+    },
+    {
+        "n": {
+            "name": "Capecitabine"
+        }
+    },
+    {
+        "n": {
+            "name": "Disulfiram"
+        }
+    },
+    {
+        "n": {
+            "name": "Ethambutol"
+        }
+    },
+    {
+        "n": {
+            "name": "Ethionamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Fludarabine"
+        }
+    },
+    {
+        "n": {
+            "name": "Fluorouracil"
+        }
+    },
+    {
+        "n": {
+            "name": "Sodium aurothiomalate"
+        }
+    },
+    {
+        "n": {
+            "name": "Diiodohydroxyquinoline"
+        }
+    },
+    {
+        "n": {
+            "name": "Mebendazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Pravastatin"
+        }
+    },
+    {
+        "n": {
+            "name": "Stavudine"
+        }
+    },
+    {
+        "n": {
+            "name": "Zalcitabine"
+        }
+    },
+    {
+        "n": {
+            "name": "Bivalirudin"
+        }
+    },
+    {
+        "n": {
+            "name": "Bleomycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Burosumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Deferiprone"
+        }
+    },
+    {
+        "n": {
+            "name": "Eltrombopag"
+        }
+    },
+    {
+        "n": {
+            "name": "Omadacycline"
+        }
+    },
+    {
+        "n": {
+            "name": "Folic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Penicillamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Triethylenetetramine"
+        }
+    },
+    {
+        "n": {
+            "name": "Bremelanotide"
+        }
+    },
+    {
+        "n": {
+            "name": "Brodalumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Goldenseal"
+        }
+    },
+    {
+        "n": {
+            "name": "Calcium glycerophosphate"
+        }
+    },
+    {
+        "n": {
+            "name": "Prasterone enantate"
+        }
+    },
+    {
+        "n": {
+            "name": "Parathyroid hormone"
+        }
+    },
+    {
+        "n": {
+            "name": "Teriparatide"
+        }
+    },
+    {
+        "n": {
+            "name": "Testolactone"
+        }
+    },
+    {
+        "n": {
+            "name": "Cyclandelate"
+        }
+    },
+    {
+        "n": {
+            "name": "Isoxsuprine"
+        }
+    },
+    {
+        "n": {
+            "name": "Nesiritide"
+        }
+    },
+    {
+        "n": {
+            "name": "Nitrous acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Tolazoline"
+        }
+    },
+    {
+        "n": {
+            "name": "Cangrelor"
+        }
+    },
+    {
+        "n": {
+            "name": "Levonordefrin"
+        }
+    },
+    {
+        "n": {
+            "name": "Mepivacaine"
+        }
+    },
+    {
+        "n": {
+            "name": "Carfilzomib"
+        }
+    },
+    {
+        "n": {
+            "name": "Carmustine"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefazolin"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefepime"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefixime"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefotaxime"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefotetan"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefoxitin"
+        }
+    },
+    {
+        "n": {
+            "name": "Ceftaroline fosamil"
+        }
+    },
+    {
+        "n": {
+            "name": "Ceftazidime"
+        }
+    },
+    {
+        "n": {
+            "name": "Ceftolozane"
+        }
+    },
+    {
+        "n": {
+            "name": "Ceftriaxone"
+        }
+    },
+    {
+        "n": {
+            "name": "Clofibrate"
+        }
+    },
+    {
+        "n": {
+            "name": "Fenofibric acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Chloroprocaine"
+        }
+    },
+    {
+        "n": {
+            "name": "Laronidase"
+        }
+    },
+    {
+        "n": {
+            "name": "Mecasermin"
+        }
+    },
+    {
+        "n": {
+            "name": "Mecasermin rinfabate"
+        }
+    },
+    {
+        "n": {
+            "name": "Sulfadoxine"
+        }
+    },
+    {
+        "n": {
+            "name": "Rifamycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Cholic Acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Ciclesonide (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Ciclesonide"
+        }
+    },
+    {
+        "n": {
+            "name": "Creatine"
+        }
+    },
+    {
+        "n": {
+            "name": "Lomustine"
+        }
+    },
+    {
+        "n": {
+            "name": "Melatonin"
+        }
+    },
+    {
+        "n": {
+            "name": "Moricizine"
+        }
+    },
+    {
+        "n": {
+            "name": "Tocainide"
+        }
+    },
+    {
+        "n": {
+            "name": "Trimetrexate"
+        }
+    },
+    {
+        "n": {
+            "name": "Varenicline"
+        }
+    },
+    {
+        "n": {
+            "name": "Cinacalcet"
+        }
+    },
+    {
+        "n": {
+            "name": "Citric acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Eravacycline"
+        }
+    },
+    {
+        "n": {
+            "name": "Fexofenadine"
+        }
+    },
+    {
+        "n": {
+            "name": "Flunisolide (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Fluorometholone (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Loteprednol (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Mitoxantrone"
+        }
+    },
+    {
+        "n": {
+            "name": "Pomalidomide"
+        }
+    },
+    {
+        "n": {
+            "name": "Talazoparib"
+        }
+    },
+    {
+        "n": {
+            "name": "Vorapaxar"
+        }
+    },
+    {
+        "n": {
+            "name": "Picosulfuric acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Aztreonam"
+        }
+    },
+    {
+        "n": {
+            "name": "Benznidazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefamandole"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefmetazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefonicid"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefoperazone"
+        }
+    },
+    {
+        "n": {
+            "name": "Ceftizoxime"
+        }
+    },
+    {
+        "n": {
+            "name": "Microcrystalline cellulose"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefalotin"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefapirin"
+        }
+    },
+    {
+        "n": {
+            "name": "Dalbavancin"
+        }
+    },
+    {
+        "n": {
+            "name": "Daptomycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Doripenem"
+        }
+    },
+    {
+        "n": {
+            "name": "Loracarbef"
+        }
+    },
+    {
+        "n": {
+            "name": "Novobiocin"
+        }
+    },
+    {
+        "n": {
+            "name": "Oritavancin"
+        }
+    },
+    {
+        "n": {
+            "name": "Pyrazinamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Quinupristin"
+        }
+    },
+    {
+        "n": {
+            "name": "Secnidazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Spectinomycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Tedizolid"
+        }
+    },
+    {
+        "n": {
+            "name": "Tigecycline"
+        }
+    },
+    {
+        "n": {
+            "name": "Levomefolic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Leucovorin"
+        }
+    },
+    {
+        "n": {
+            "name": "Levomefolic acid (calcium)"
+        }
+    },
+    {
+        "n": {
+            "name": "Cromoglicic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Ursodeoxycholic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Human C1-esterase inhibitor"
+        }
+    },
+    {
+        "n": {
+            "name": "Conestat alfa"
+        }
+    },
+    {
+        "n": {
+            "name": "Dactinomycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Denileukin diftitox"
+        }
+    },
+    {
+        "n": {
+            "name": "Dinoprostone (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Difenoxin"
+        }
+    },
+    {
+        "n": {
+            "name": "Dimercaprol"
+        }
+    },
+    {
+        "n": {
+            "name": "Diphenoxylate"
+        }
+    },
+    {
+        "n": {
+            "name": "Dipivefrin (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Docusate"
+        }
+    },
+    {
+        "n": {
+            "name": "Lacosamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Dornase alfa"
+        }
+    },
+    {
+        "n": {
+            "name": "Dupilumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Dyphylline"
+        }
+    },
+    {
+        "n": {
+            "name": "Grazoprevir"
+        }
+    },
+    {
+        "n": {
+            "name": "Elbasvir"
+        }
+    },
+    {
+        "n": {
+            "name": "Elexacaftor"
+        }
+    },
+    {
+        "n": {
+            "name": "Artesunate"
+        }
+    },
+    {
+        "n": {
+            "name": "Lenalidomide"
+        }
+    },
+    {
+        "n": {
+            "name": "Topotecan"
+        }
+    },
+    {
+        "n": {
+            "name": "Pitavastatin"
+        }
+    },
+    {
+        "n": {
+            "name": "Emapalumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Enasidenib"
+        }
+    },
+    {
+        "n": {
+            "name": "Procaine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ledipasvir"
+        }
+    },
+    {
+        "n": {
+            "name": "Levocarnitine"
+        }
+    },
+    {
+        "n": {
+            "name": "Lidocaine (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Inulin"
+        }
+    },
+    {
+        "n": {
+            "name": "Sodium phosphate, monobasic"
+        }
+    },
+    {
+        "n": {
+            "name": "Lopinavir"
+        }
+    },
+    {
+        "n": {
+            "name": "Lubiprostone"
+        }
+    },
+    {
+        "n": {
+            "name": "Lumacaftor"
+        }
+    },
+    {
+        "n": {
+            "name": "Nalmefene"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenyl salicylate"
+        }
+    },
+    {
+        "n": {
+            "name": "Miconazole (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Imiglucerase"
+        }
+    },
+    {
+        "n": {
+            "name": "Miglustat"
+        }
+    },
+    {
+        "n": {
+            "name": "Guselkumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Inebilizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Ixekizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Selenium"
+        }
+    },
+    {
+        "n": {
+            "name": "Mogamulizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Naxitamab"
+        }
+    },
+    {
+        "n": {
+            "name": "Omalizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Risankizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Rituximab"
+        }
+    },
+    {
+        "n": {
+            "name": "Sarilumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Satralizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Secukinumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Siltuximab"
+        }
+    },
+    {
+        "n": {
+            "name": "Tildrakizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Tocilizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Vedolizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Propylthiouracil"
+        }
+    },
+    {
+        "n": {
+            "name": "Nedocromil"
+        }
+    },
+    {
+        "n": {
+            "name": "Netupitant"
+        }
+    },
+    {
+        "n": {
+            "name": "Mestranol"
+        }
+    },
+    {
+        "n": {
+            "name": "Riluzole"
+        }
+    },
+    {
+        "n": {
+            "name": "Paritaprevir"
+        }
+    },
+    {
+        "n": {
+            "name": "Onasemnogene abeparvovec"
+        }
+    },
+    {
+        "n": {
+            "name": "Proparacaine (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Pegaptanib (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Pegloticase"
+        }
+    },
+    {
+        "n": {
+            "name": "Pegademase"
+        }
+    },
+    {
+        "n": {
+            "name": "Pegfilgrastim"
+        }
+    },
+    {
+        "n": {
+            "name": "Peginesatide"
+        }
+    },
+    {
+        "n": {
+            "name": "Phylloquinone"
+        }
+    },
+    {
+        "n": {
+            "name": "Plecanatide"
+        }
+    },
+    {
+        "n": {
+            "name": "Monopotassium phosphate"
+        }
+    },
+    {
+        "n": {
+            "name": "Prilocaine"
+        }
+    },
+    {
+        "n": {
+            "name": "Dalfopristin"
+        }
+    },
+    {
+        "n": {
+            "name": "Sacubitril"
+        }
+    },
+    {
+        "n": {
+            "name": "Sodium chloride"
+        }
+    },
+    {
+        "n": {
+            "name": "Vibegron"
+        }
+    },
+    {
+        "n": {
+            "name": "Minoxidil (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Pyrimethamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Sodium sulfate"
+        }
+    },
+    {
+        "n": {
+            "name": "Velpatasvir"
+        }
+    },
+    {
+        "n": {
+            "name": "Voxilaprevir"
+        }
+    },
+    {
+        "n": {
+            "name": "Tetracaine"
+        }
+    },
+    {
+        "n": {
+            "name": "Manganese (sulfate)"
+        }
+    },
+    {
+        "n": {
+            "name": "Copper gluconate"
+        }
+    },
+    {
+        "n": {
+            "name": "Manganese (chloride)"
+        }
+    },
+    {
+        "n": {
+            "name": "Tipiracil"
+        }
+    },
+    {
+        "n": {
+            "name": "Triheptanoin"
+        }
+    },
+    {
+        "n": {
+            "name": "Vilanterol"
+        }
+    },
+    {
+        "n": {
+            "name": "Zanamivir"
+        }
+    },
+    {
+        "n": {
+            "name": "Potassium acetate"
+        }
+    },
+    {
+        "n": {
+            "name": "Potassium perchlorate"
+        }
+    },
+    {
+        "n": {
+            "name": "Methacholine"
+        }
+    },
+    {
+        "n": {
+            "name": "Iron Dextran"
+        }
+    },
+    {
+        "n": {
+            "name": "Ixazomib"
+        }
+    },
+    {
+        "n": {
+            "name": "Gentamicin (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Belinostat"
+        }
+    },
+    {
+        "n": {
+            "name": "Cytarabine"
+        }
+    },
+    {
+        "n": {
+            "name": "Dacarbazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Elotuzumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Febuxostat"
+        }
+    },
+    {
+        "n": {
+            "name": "Gemcitabine"
+        }
+    },
+    {
+        "n": {
+            "name": "Gemtuzumab ozogamicin"
+        }
+    },
+    {
+        "n": {
+            "name": "Methimazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Temozolomide"
+        }
+    },
+    {
+        "n": {
+            "name": "Naphazoline (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Floxuridine"
+        }
+    },
+    {
+        "n": {
+            "name": "Hydroxyurea"
+        }
+    },
+    {
+        "n": {
+            "name": "Mechlorethamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Mitomycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Pentostatin"
+        }
+    },
+    {
+        "n": {
+            "name": "Plicamycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Streptozocin"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxybuprocaine (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Cinchocaine (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Tetracaine (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Capsicum"
+        }
+    },
+    {
+        "n": {
+            "name": "Clove"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxymetazoline (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxymetazoline (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxymetazoline (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Brexucabtagene autoleucel"
+        }
+    },
+    {
+        "n": {
+            "name": "Tafamidis"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxyquinoline (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Aminobenzoic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Tetryzoline (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Beta carotene"
+        }
+    },
+    {
+        "n": {
+            "name": "Ammonium chloride"
+        }
+    },
+    {
+        "n": {
+            "name": "Methionine"
+        }
+    },
+    {
+        "n": {
+            "name": "Dienogest"
+        }
+    },
+    {
+        "n": {
+            "name": "Norgestimate"
+        }
+    },
+    {
+        "n": {
+            "name": "Cabotegravir"
+        }
+    },
+    {
+        "n": {
+            "name": "Ferric carboxymaltose"
+        }
+    },
+    {
+        "n": {
+            "name": "Ferric derisomaltose"
+        }
+    },
+    {
+        "n": {
+            "name": "Sodium ferric gluconate complex"
+        }
+    },
+    {
+        "n": {
+            "name": "Ferumoxytol"
+        }
+    },
+    {
+        "n": {
+            "name": "Glecaprevir"
+        }
+    },
+    {
+        "n": {
+            "name": "Hydroxyamphetamine (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Imipenem"
+        }
+    },
+    {
+        "n": {
+            "name": "Ipecac"
+        }
+    },
+    {
+        "n": {
+            "name": "Melphalan flufenamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Tetryzoline (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Lutein"
+        }
+    },
+    {
+        "n": {
+            "name": "Saw palmetto"
+        }
+    },
+    {
+        "n": {
+            "name": "Fosnetupitant"
+        }
+    },
+    {
+        "n": {
+            "name": "Levmetamfetamine (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Naphazoline (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenylephrine (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenylephrine (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Propylhexedrine (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Xylometazoline (nasal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Nystatin"
+        }
+    },
+    {
+        "n": {
+            "name": "Gadodiamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Travoprost"
+        }
+    },
+    {
+        "n": {
+            "name": "Mupirocin"
+        }
+    },
+    {
+        "n": {
+            "name": "Famciclovir"
+        }
+    },
+    {
+        "n": {
+            "name": "Raloxifene"
+        }
+    },
+    {
+        "n": {
+            "name": "Gadoversetamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Latanoprost"
+        }
+    },
+    {
+        "n": {
+            "name": "Ribavirin"
+        }
+    },
+    {
+        "n": {
+            "name": "Bimatoprost"
+        }
+    },
+    {
+        "n": {
+            "name": "Desloratadine"
+        }
+    },
+    {
+        "n": {
+            "name": "Zopiclone"
+        }
+    },
+    {
+        "n": {
+            "name": "Finasteride"
+        }
+    },
+    {
+        "n": {
+            "name": "Acenocoumarol"
+        }
+    },
+    {
+        "n": {
+            "name": "Nitrazepam"
+        }
+    },
+    {
+        "n": {
+            "name": "Vitamin D"
+        }
+    },
+    {
+        "n": {
+            "name": "Clobetasol"
+        }
+    },
+    {
+        "n": {
+            "name": "Ciclopirox"
+        }
+    },
+    {
+        "n": {
+            "name": "Pimecrolimus"
+        }
+    },
+    {
+        "n": {
+            "name": "Oseltamivir"
+        }
+    },
+    {
+        "n": {
+            "name": "Adapalene"
+        }
+    },
+    {
+        "n": {
+            "name": "Etomidate"
+        }
+    },
+    {
+        "n": {
+            "name": "Acamprosate"
+        }
+    },
+    {
+        "n": {
+            "name": "Adefovir dipivoxil"
+        }
+    },
+    {
+        "n": {
+            "name": "Imiquimod"
+        }
+    },
+    {
+        "n": {
+            "name": "Olopatadine"
+        }
+    },
+    {
+        "n": {
+            "name": "Fulvestrant"
+        }
+    },
+    {
+        "n": {
+            "name": "Selenium Sulfide"
+        }
+    },
+    {
+        "n": {
+            "name": "Brinzolamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Loteprednol etabonate"
+        }
+    },
+    {
+        "n": {
+            "name": "Fluorometholone"
+        }
+    },
+    {
+        "n": {
+            "name": "Tazarotene"
+        }
+    },
+    {
+        "n": {
+            "name": "Ketotifen"
+        }
+    },
+    {
+        "n": {
+            "name": "Fluocinonide"
+        }
+    },
+    {
+        "n": {
+            "name": "Econazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Nitric Oxide"
+        }
+    },
+    {
+        "n": {
+            "name": "Chlorhexidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Hydroxocobalamin"
+        }
+    },
+    {
+        "n": {
+            "name": "Tioconazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Levobunolol"
+        }
+    },
+    {
+        "n": {
+            "name": "Brimonidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Aminocaproic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Tropicamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Galactose"
+        }
+    },
+    {
+        "n": {
+            "name": "Azelastine"
+        }
+    },
+    {
+        "n": {
+            "name": "Hydrocortisone butyrate"
+        }
+    },
+    {
+        "n": {
+            "name": "Calcipotriol"
+        }
+    },
+    {
+        "n": {
+            "name": "Anastrozole"
+        }
+    },
+    {
+        "n": {
+            "name": "Flumazenil"
+        }
+    },
+    {
+        "n": {
+            "name": "Fluocinolone acetonide"
+        }
+    },
+    {
+        "n": {
+            "name": "gamma-Aminobutyric acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Dextran (low molecular weight)"
+        }
+    },
+    {
+        "n": {
+            "name": "Dextran (-1)"
+        }
+    },
+    {
+        "n": {
+            "name": "Dextran (high molecular weight)"
+        }
+    },
+    {
+        "n": {
+            "name": "Heparin (flush)"
+        }
+    },
+    {
+        "n": {
+            "name": "Emicizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Tranexamic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Darbepoetin alfa"
+        }
+    },
+    {
+        "n": {
+            "name": "Aprotinin"
+        }
+    },
+    {
+        "n": {
+            "name": "Protein C"
+        }
+    },
+    {
+        "n": {
+            "name": "Anti-inhibitor coagulant complex"
+        }
+    },
+    {
+        "n": {
+            "name": "Factor IX Complex (Human)"
+        }
+    },
+    {
+        "n": {
+            "name": "Erythropoietin"
+        }
+    },
+    {
+        "n": {
+            "name": "Icatibant"
+        }
+    },
+    {
+        "n": {
+            "name": "Von Willebrand Factor Human"
+        }
+    },
+    {
+        "n": {
+            "name": "Coagulation factor VIIa Recombinant Human"
+        }
+    },
+    {
+        "n": {
+            "name": "Sugammadex"
+        }
+    },
+    {
+        "n": {
+            "name": "Coagulation factor X human"
+        }
+    },
+    {
+        "n": {
+            "name": "Regadenoson"
+        }
+    },
+    {
+        "n": {
+            "name": "Fibrinogen human"
+        }
+    },
+    {
+        "n": {
+            "name": "Romiplostim"
+        }
+    },
+    {
+        "n": {
+            "name": "Etidocaine"
+        }
+    },
+    {
+        "n": {
+            "name": "Methyl salicylate (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Econazole (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Sofosbuvir"
+        }
+    },
+    {
+        "n": {
+            "name": "Coenzyme M"
+        }
+    },
+    {
+        "n": {
+            "name": "Trastuzumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Sodium glycerophosphate"
+        }
+    },
+    {
+        "n": {
+            "name": "Citrus bioflavonoids"
+        }
+    },
+    {
+        "n": {
+            "name": "Chondroitin sulfate"
+        }
+    },
+    {
+        "n": {
+            "name": "Cranberry"
+        }
+    },
+    {
+        "n": {
+            "name": "Dextrothyroxine"
+        }
+    },
+    {
+        "n": {
+            "name": "Glucagon"
+        }
+    },
+    {
+        "n": {
+            "name": "Glucosamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Levamisole"
+        }
+    },
+    {
+        "n": {
+            "name": "Papaya"
+        }
+    },
+    {
+        "n": {
+            "name": "Palifermin"
+        }
+    },
+    {
+        "n": {
+            "name": "Sacituzumab govitecan"
+        }
+    },
+    {
+        "n": {
+            "name": "Bromotheophylline"
+        }
+    },
+    {
+        "n": {
+            "name": "Trametinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Pyrophosphoric acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Hyaluronic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Cetylpyridinium (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Chloramphenicol (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Adapalene (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Azelaic acid (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Benzoyl peroxide (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Salicylic acid (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Octasulfur (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Tazarotene (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Tretinoin (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Trifarotene (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Bretylium"
+        }
+    },
+    {
+        "n": {
+            "name": "Bupivacaine (liposome)"
+        }
+    },
+    {
+        "n": {
+            "name": "Tilmanocept"
+        }
+    },
+    {
+        "n": {
+            "name": "Acyclovir (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Resorcinol (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Fomepizole"
+        }
+    },
+    {
+        "n": {
+            "name": "Nifurtimox"
+        }
+    },
+    {
+        "n": {
+            "name": "Alitretinoin (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Bexarotene (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Rasburicase"
+        }
+    },
+    {
+        "n": {
+            "name": "Silver nitrate (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Silver nitrate (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Silver sulfadiazine (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Imiquimod (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Methoxsalen (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Trioxsalen"
+        }
+    },
+    {
+        "n": {
+            "name": "Diphenhydramine (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Azacitidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Belantamab mafodotin"
+        }
+    },
+    {
+        "n": {
+            "name": "Potassium Iodide"
+        }
+    },
+    {
+        "n": {
+            "name": "Axicabtagene ciloleucel"
+        }
+    },
+    {
+        "n": {
+            "name": "Daratumumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Decitabine"
+        }
+    },
+    {
+        "n": {
+            "name": "Trastuzumab deruxtecan"
+        }
+    },
+    {
+        "n": {
+            "name": "Isatuximab"
+        }
+    },
+    {
+        "n": {
+            "name": "Obinutuzumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Ofatumumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Selinexor"
+        }
+    },
+    {
+        "n": {
+            "name": "Tafasitamab"
+        }
+    },
+    {
+        "n": {
+            "name": "Tisagenlecleucel"
+        }
+    },
+    {
+        "n": {
+            "name": "Aflibercept"
+        }
+    },
+    {
+        "n": {
+            "name": "Clindamycin (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Histamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Clioquinol (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Collagenase clostridium histolyticum (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Silver (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Thimerosal (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Medrysone (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Rimexolone (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Difluprednate (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Penciclovir (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Sulfacetamide (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Trifluridine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ivermectin (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Iodine"
+        }
+    },
+    {
+        "n": {
+            "name": "Iodine (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Coal tar (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Hexachlorophene (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Chloramphenicol (otic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Sodium zirconium cyclosilicate"
+        }
+    },
+    {
+        "n": {
+            "name": "Benzalkonium (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Azelaic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Etelcalcetide"
+        }
+    },
+    {
+        "n": {
+            "name": "Ganirelix"
+        }
+    },
+    {
+        "n": {
+            "name": "Chorionic Gonadotropin (Human)"
+        }
+    },
+    {
+        "n": {
+            "name": "Simethicone"
+        }
+    },
+    {
+        "n": {
+            "name": "Menotropins"
+        }
+    },
+    {
+        "n": {
+            "name": "Copper oxodotreotide Cu-64"
+        }
+    },
+    {
+        "n": {
+            "name": "Dotatate"
+        }
+    },
+    {
+        "n": {
+            "name": "Indium In-111 pentetreotide"
+        }
+    },
+    {
+        "n": {
+            "name": "Follitropin"
+        }
+    },
+    {
+        "n": {
+            "name": "Gonadorelin"
+        }
+    },
+    {
+        "n": {
+            "name": "Urofollitropin"
+        }
+    },
+    {
+        "n": {
+            "name": "Filgrastim"
+        }
+    },
+    {
+        "n": {
+            "name": "Samarium (153Sm) lexidronam"
+        }
+    },
+    {
+        "n": {
+            "name": "Sargramostim"
+        }
+    },
+    {
+        "n": {
+            "name": "Capromab pendetide"
+        }
+    },
+    {
+        "n": {
+            "name": "Gadobenic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Olaratumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Metyrapone"
+        }
+    },
+    {
+        "n": {
+            "name": "Cytarabine (liposomal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Ethiodized oil"
+        }
+    },
+    {
+        "n": {
+            "name": "Iopanoic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Iopodic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Tyropanoic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Acetohydroxamic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Bevacizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Amrinone"
+        }
+    },
+    {
+        "n": {
+            "name": "Milrinone"
+        }
+    },
+    {
+        "n": {
+            "name": "Anidulafungin"
+        }
+    },
+    {
+        "n": {
+            "name": "Digoxin Immune Fab (Ovine)"
+        }
+    },
+    {
+        "n": {
+            "name": "Eculizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Ravulizumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Avelumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Bazedoxifene"
+        }
+    },
+    {
+        "n": {
+            "name": "Clomifene"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxygen"
+        }
+    },
+    {
+        "n": {
+            "name": "Levoleucovorin"
+        }
+    },
+    {
+        "n": {
+            "name": "Dexrazoxane"
+        }
+    },
+    {
+        "n": {
+            "name": "Factor XIII (human)"
+        }
+    },
+    {
+        "n": {
+            "name": "Oprelvekin"
+        }
+    },
+    {
+        "n": {
+            "name": "Valrubicin"
+        }
+    },
+    {
+        "n": {
+            "name": "Edetate calcium disodium anhydrous"
+        }
+    },
+    {
+        "n": {
+            "name": "Edetate disodium anhydrous"
+        }
+    },
+    {
+        "n": {
+            "name": "Miltefosine"
+        }
+    },
+    {
+        "n": {
+            "name": "Human immunoglobulin G (subcutaneous)"
+        }
+    },
+    {
+        "n": {
+            "name": "Dehydrocholic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Cedazuridine"
+        }
+    },
+    {
+        "n": {
+            "name": "Human immunoglobulin G (intramuscular)"
+        }
+    },
+    {
+        "n": {
+            "name": "Dasabuvir"
+        }
+    },
+    {
+        "n": {
+            "name": "Pertuzumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Lisocabtagene maraleucel"
+        }
+    },
+    {
+        "n": {
+            "name": "Glatiramer"
+        }
+    },
+    {
+        "n": {
+            "name": "Necitumumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Glucarpidase"
+        }
+    },
+    {
+        "n": {
+            "name": "Hexaminolevulinate"
+        }
+    },
+    {
+        "n": {
+            "name": "Flax seed"
+        }
+    },
+    {
+        "n": {
+            "name": "Tivozanib"
+        }
+    },
+    {
+        "n": {
+            "name": "Pyrantel"
+        }
+    },
+    {
+        "n": {
+            "name": "Cyclopentolate (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Homatropine (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Tropicamide (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Benzonatate"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenylephrine (otic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Gadobutrol"
+        }
+    },
+    {
+        "n": {
+            "name": "Gadofosveset trisodium"
+        }
+    },
+    {
+        "n": {
+            "name": "Gadopentetic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Gadoteric acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Gadoteridol"
+        }
+    },
+    {
+        "n": {
+            "name": "Gadoxetic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Indium In-111 pentetate"
+        }
+    },
+    {
+        "n": {
+            "name": "Enfuvirtide"
+        }
+    },
+    {
+        "n": {
+            "name": "Sodium cellulose phosphate"
+        }
+    },
+    {
+        "n": {
+            "name": "Milk thistle"
+        }
+    },
+    {
+        "n": {
+            "name": "Dextrose, unspecified form"
+        }
+    },
+    {
+        "n": {
+            "name": "Ferumoxides"
+        }
+    },
+    {
+        "n": {
+            "name": "Ferumoxsil"
+        }
+    },
+    {
+        "n": {
+            "name": "Tetrofosmin"
+        }
+    },
+    {
+        "n": {
+            "name": "Ergoloid mesylate"
+        }
+    },
+    {
+        "n": {
+            "name": "Sodium iodide"
+        }
+    },
+    {
+        "n": {
+            "name": "Norelgestromin"
+        }
+    },
+    {
+        "n": {
+            "name": "Naltrexone"
+        }
+    },
+    {
+        "n": {
+            "name": "Abacavir"
+        }
+    },
+    {
+        "n": {
+            "name": "Orlistat"
+        }
+    },
+    {
+        "n": {
+            "name": "Aluminum hydroxide"
+        }
+    },
+    {
+        "n": {
+            "name": "Dolutegravir"
+        }
+    },
+    {
+        "n": {
+            "name": "Aprepitant"
+        }
+    },
+    {
+        "n": {
+            "name": "Attapulgite"
+        }
+    },
+    {
+        "n": {
+            "name": "Calcium acetate"
+        }
+    },
+    {
+        "n": {
+            "name": "Calcium carbonate"
+        }
+    },
+    {
+        "n": {
+            "name": "Calcium citrate"
+        }
+    },
+    {
+        "n": {
+            "name": "Calcium glubionate anhydrous"
+        }
+    },
+    {
+        "n": {
+            "name": "Calcium gluconate"
+        }
+    },
+    {
+        "n": {
+            "name": "Calcium lactate"
+        }
+    },
+    {
+        "n": {
+            "name": "Calcium Phosphate"
+        }
+    },
+    {
+        "n": {
+            "name": "Iron"
+        }
+    },
+    {
+        "n": {
+            "name": "Cimetidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Clarithromycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Clotrimazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Dexamethasone"
+        }
+    },
+    {
+        "n": {
+            "name": "Kaolin"
+        }
+    },
+    {
+        "n": {
+            "name": "Lamivudine"
+        }
+    },
+    {
+        "n": {
+            "name": "Lactitol"
+        }
+    },
+    {
+        "n": {
+            "name": "Magaldrate"
+        }
+    },
+    {
+        "n": {
+            "name": "Magnesium carbonate"
+        }
+    },
+    {
+        "n": {
+            "name": "Magnesium chloride"
+        }
+    },
+    {
+        "n": {
+            "name": "Magnesium citrate"
+        }
+    },
+    {
+        "n": {
+            "name": "Magnesium gluconate"
+        }
+    },
+    {
+        "n": {
+            "name": "Magnesium hydroxide"
+        }
+    },
+    {
+        "n": {
+            "name": "Magnesium oxide"
+        }
+    },
+    {
+        "n": {
+            "name": "Magnesium sulfate"
+        }
+    },
+    {
+        "n": {
+            "name": "Mannitol"
+        }
+    },
+    {
+        "n": {
+            "name": "Metformin"
+        }
+    },
+    {
+        "n": {
+            "name": "Miconazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Sorbitol"
+        }
+    },
+    {
+        "n": {
+            "name": "Sucralfate"
+        }
+    },
+    {
+        "n": {
+            "name": "Troglitazone"
+        }
+    },
+    {
+        "n": {
+            "name": "Zidovudine"
+        }
+    },
+    {
+        "n": {
+            "name": "Amphotericin B"
+        }
+    },
+    {
+        "n": {
+            "name": "Amphotericin B (cholesteryl sulfate)"
+        }
+    },
+    {
+        "n": {
+            "name": "Amphotericin B (lipid complex)"
+        }
+    },
+    {
+        "n": {
+            "name": "Betamethasone"
+        }
+    },
+    {
+        "n": {
+            "name": "Budesonide"
+        }
+    },
+    {
+        "n": {
+            "name": "Hydrocortisone"
+        }
+    },
+    {
+        "n": {
+            "name": "Prednisolone"
+        }
+    },
+    {
+        "n": {
+            "name": "Prednisone"
+        }
+    },
+    {
+        "n": {
+            "name": "Rosuvastatin"
+        }
+    },
+    {
+        "n": {
+            "name": "Simvastatin"
+        }
+    },
+    {
+        "n": {
+            "name": "Triamcinolone"
+        }
+    },
+    {
+        "n": {
+            "name": "Calcitriol (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Abaloparatide"
+        }
+    },
+    {
+        "n": {
+            "name": "Alosetron"
+        }
+    },
+    {
+        "n": {
+            "name": "Abametapir (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Bupropion"
+        }
+    },
+    {
+        "n": {
+            "name": "Cisapride"
+        }
+    },
+    {
+        "n": {
+            "name": "Dexlansoprazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Dolasetron"
+        }
+    },
+    {
+        "n": {
+            "name": "Dronabinol"
+        }
+    },
+    {
+        "n": {
+            "name": "Eliglustat"
+        }
+    },
+    {
+        "n": {
+            "name": "Esomeprazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Glyburide"
+        }
+    },
+    {
+        "n": {
+            "name": "Granisetron"
+        }
+    },
+    {
+        "n": {
+            "name": "Lansoprazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Linagliptin"
+        }
+    },
+    {
+        "n": {
+            "name": "Naldemedine"
+        }
+    },
+    {
+        "n": {
+            "name": "Naloxegol"
+        }
+    },
+    {
+        "n": {
+            "name": "Nateglinide"
+        }
+    },
+    {
+        "n": {
+            "name": "Nitisinone"
+        }
+    },
+    {
+        "n": {
+            "name": "Omeprazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Ondansetron"
+        }
+    },
+    {
+        "n": {
+            "name": "Pantoprazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Pioglitazone"
+        }
+    },
+    {
+        "n": {
+            "name": "Rabeprazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Repaglinide"
+        }
+    },
+    {
+        "n": {
+            "name": "Rolapitant"
+        }
+    },
+    {
+        "n": {
+            "name": "Saxagliptin"
+        }
+    },
+    {
+        "n": {
+            "name": "Sibutramine"
+        }
+    },
+    {
+        "n": {
+            "name": "Tinidazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Abatacept"
+        }
+    },
+    {
+        "n": {
+            "name": "Zinc acetate"
+        }
+    },
+    {
+        "n": {
+            "name": "Zinc gluconate"
+        }
+    },
+    {
+        "n": {
+            "name": "Zinc sulfate"
+        }
+    },
+    {
+        "n": {
+            "name": "Abciximab"
+        }
+    },
+    {
+        "n": {
+            "name": "Acetylsalicylic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Dexfenfluramine"
+        }
+    },
+    {
+        "n": {
+            "name": "Fenfluramine"
+        }
+    },
+    {
+        "n": {
+            "name": "Abemaciclib"
+        }
+    },
+    {
+        "n": {
+            "name": "Metreleptin"
+        }
+    },
+    {
+        "n": {
+            "name": "Abiraterone"
+        }
+    },
+    {
+        "n": {
+            "name": "Bisacodyl"
+        }
+    },
+    {
+        "n": {
+            "name": "Castor oil"
+        }
+    },
+    {
+        "n": {
+            "name": "Eluxadoline"
+        }
+    },
+    {
+        "n": {
+            "name": "Famotidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Glycerin"
+        }
+    },
+    {
+        "n": {
+            "name": "Lactulose"
+        }
+    },
+    {
+        "n": {
+            "name": "Levofloxacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Loperamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Metoclopramide"
+        }
+    },
+    {
+        "n": {
+            "name": "Metronidazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Mineral oil"
+        }
+    },
+    {
+        "n": {
+            "name": "Palonosetron"
+        }
+    },
+    {
+        "n": {
+            "name": "Papaverine"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenolphthalein"
+        }
+    },
+    {
+        "n": {
+            "name": "Polyethylene glycol (3350)"
+        }
+    },
+    {
+        "n": {
+            "name": "Polyethylene glycol (3350 with electrolytes)"
+        }
+    },
+    {
+        "n": {
+            "name": "Rosiglitazone"
+        }
+    },
+    {
+        "n": {
+            "name": "Botulinum toxin type A"
+        }
+    },
+    {
+        "n": {
+            "name": "Atropine"
+        }
+    },
+    {
+        "n": {
+            "name": "Clidinium"
+        }
+    },
+    {
+        "n": {
+            "name": "Dicyclomine"
+        }
+    },
+    {
+        "n": {
+            "name": "Glycopyrronium"
+        }
+    },
+    {
+        "n": {
+            "name": "Hyoscyamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Kanamycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Mepenzolate"
+        }
+    },
+    {
+        "n": {
+            "name": "Methscopolamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Neomycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Polymyxin B"
+        }
+    },
+    {
+        "n": {
+            "name": "Propantheline"
+        }
+    },
+    {
+        "n": {
+            "name": "Scopolamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Streptomycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Trospium"
+        }
+    },
+    {
+        "n": {
+            "name": "Paclitaxel"
+        }
+    },
+    {
+        "n": {
+            "name": "Ascorbic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Isotretinoin"
+        }
+    },
+    {
+        "n": {
+            "name": "Doxycycline"
+        }
+    },
+    {
+        "n": {
+            "name": "Minocycline"
+        }
+    },
+    {
+        "n": {
+            "name": "Tetracycline"
+        }
+    },
+    {
+        "n": {
+            "name": "Vitamin A"
+        }
+    },
+    {
+        "n": {
+            "name": "Fentanyl"
+        }
+    },
+    {
+        "n": {
+            "name": "Alvimopan"
+        }
+    },
+    {
+        "n": {
+            "name": "Glycerol phenylbutyrate"
+        }
+    },
+    {
+        "n": {
+            "name": "Lorcaserin"
+        }
+    },
+    {
+        "n": {
+            "name": "Mazindol"
+        }
+    },
+    {
+        "n": {
+            "name": "Morphine"
+        }
+    },
+    {
+        "n": {
+            "name": "Morphine (liposomal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Nabilone"
+        }
+    },
+    {
+        "n": {
+            "name": "Naloxone"
+        }
+    },
+    {
+        "n": {
+            "name": "Opium"
+        }
+    },
+    {
+        "n": {
+            "name": "Phentermine"
+        }
+    },
+    {
+        "n": {
+            "name": "Acalabrutinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Nizatidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ranitidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ranitidine (bismuth citrate)"
+        }
+    },
+    {
+        "n": {
+            "name": "Acarbose"
+        }
+    },
+    {
+        "n": {
+            "name": "Acetazolamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Albiglutide"
+        }
+    },
+    {
+        "n": {
+            "name": "Salbutamol"
+        }
+    },
+    {
+        "n": {
+            "name": "Alclometasone (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Aloe Vera Leaf"
+        }
+    },
+    {
+        "n": {
+            "name": "Alpelisib"
+        }
+    },
+    {
+        "n": {
+            "name": "Lipoic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Amcinonide"
+        }
+    },
+    {
+        "n": {
+            "name": "Amprenavir"
+        }
+    },
+    {
+        "n": {
+            "name": "Anisindione"
+        }
+    },
+    {
+        "n": {
+            "name": "Aripiprazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Asenapine"
+        }
+    },
+    {
+        "n": {
+            "name": "Asparaginase Erwinia chrysanthemi"
+        }
+    },
+    {
+        "n": {
+            "name": "Asparaginase Escherichia coli"
+        }
+    },
+    {
+        "n": {
+            "name": "Atazanavir"
+        }
+    },
+    {
+        "n": {
+            "name": "Bedaquiline"
+        }
+    },
+    {
+        "n": {
+            "name": "Bendroflumethiazide"
+        }
+    },
+    {
+        "n": {
+            "name": "Benzphetamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Benzthiazide"
+        }
+    },
+    {
+        "n": {
+            "name": "Betamethasone (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Bortezomib"
+        }
+    },
+    {
+        "n": {
+            "name": "Brentuximab vedotin"
+        }
+    },
+    {
+        "n": {
+            "name": "Brexpiprazole"
+        }
+    },
+    {
+        "n": {
+            "name": "Brigatinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Bumetanide"
+        }
+    },
+    {
+        "n": {
+            "name": "Calaspargase pegol"
+        }
+    },
+    {
+        "n": {
+            "name": "Cannabidiol"
+        }
+    },
+    {
+        "n": {
+            "name": "Cariprazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ceritinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Activated charcoal"
+        }
+    },
+    {
+        "n": {
+            "name": "Chlorothiazide"
+        }
+    },
+    {
+        "n": {
+            "name": "Chlorpromazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Chlorthalidone"
+        }
+    },
+    {
+        "n": {
+            "name": "Chromic chloride"
+        }
+    },
+    {
+        "n": {
+            "name": "Chromium picolinate"
+        }
+    },
+    {
+        "n": {
+            "name": "Cinoxacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Ciprofloxacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Clobetasol (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Clocortolone (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Clofarabine"
+        }
+    },
+    {
+        "n": {
+            "name": "Clozapine"
+        }
+    },
+    {
+        "n": {
+            "name": "Conjugated estrogens"
+        }
+    },
+    {
+        "n": {
+            "name": "Conjugated estrogens (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Copanlisib"
+        }
+    },
+    {
+        "n": {
+            "name": "Corticotropin"
+        }
+    },
+    {
+        "n": {
+            "name": "Tetracosactide"
+        }
+    },
+    {
+        "n": {
+            "name": "Dabrafenib"
+        }
+    },
+    {
+        "n": {
+            "name": "Danazol"
+        }
+    },
+    {
+        "n": {
+            "name": "Darunavir"
+        }
+    },
+    {
+        "n": {
+            "name": "Deflazacort"
+        }
+    },
+    {
+        "n": {
+            "name": "Delafloxacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Desonide (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Desoximetasone (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Dexamethasone (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Dexamethasone (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Diazoxide"
+        }
+    },
+    {
+        "n": {
+            "name": "Diclofenamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Dicoumarol"
+        }
+    },
+    {
+        "n": {
+            "name": "Dienestrol (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Diethylpropion"
+        }
+    },
+    {
+        "n": {
+            "name": "Diethylstilbestrol"
+        }
+    },
+    {
+        "n": {
+            "name": "Diflorasone (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Digitoxin"
+        }
+    },
+    {
+        "n": {
+            "name": "Digoxin"
+        }
+    },
+    {
+        "n": {
+            "name": "Dobutamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Dopamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Drospirenone"
+        }
+    },
+    {
+        "n": {
+            "name": "Efavirenz"
+        }
+    },
+    {
+        "n": {
+            "name": "Enfortumab vedotin"
+        }
+    },
+    {
+        "n": {
+            "name": "Enoxacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Ephedrine"
+        }
+    },
+    {
+        "n": {
+            "name": "Epinephrine"
+        }
+    },
+    {
+        "n": {
+            "name": "Epirubicin"
+        }
+    },
+    {
+        "n": {
+            "name": "Esterified estrogens"
+        }
+    },
+    {
+        "n": {
+            "name": "Estradiol"
+        }
+    },
+    {
+        "n": {
+            "name": "Estradiol (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Estramustine"
+        }
+    },
+    {
+        "n": {
+            "name": "Estrone"
+        }
+    },
+    {
+        "n": {
+            "name": "Estrone sulfate"
+        }
+    },
+    {
+        "n": {
+            "name": "Estrone sulfate (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Etacrynic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Ethanol"
+        }
+    },
+    {
+        "n": {
+            "name": "Ethinylestradiol"
+        }
+    },
+    {
+        "n": {
+            "name": "Etonogestrel"
+        }
+    },
+    {
+        "n": {
+            "name": "Everolimus"
+        }
+    },
+    {
+        "n": {
+            "name": "Fludrocortisone"
+        }
+    },
+    {
+        "n": {
+            "name": "Fluocinonide (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Fluphenazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Flurandrenolide (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Fluticasone (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Formoterol"
+        }
+    },
+    {
+        "n": {
+            "name": "Fosamprenavir"
+        }
+    },
+    {
+        "n": {
+            "name": "Fosphenytoin"
+        }
+    },
+    {
+        "n": {
+            "name": "Furosemide"
+        }
+    },
+    {
+        "n": {
+            "name": "Garlic"
+        }
+    },
+    {
+        "n": {
+            "name": "Gatifloxacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Gemifloxacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Ginseng"
+        }
+    },
+    {
+        "n": {
+            "name": "Goserelin"
+        }
+    },
+    {
+        "n": {
+            "name": "Grepafloxacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Halcinonide (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Ulobetasol (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Histrelin"
+        }
+    },
+    {
+        "n": {
+            "name": "Hydrochlorothiazide"
+        }
+    },
+    {
+        "n": {
+            "name": "Hydrocortisone (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Hydroflumethiazide"
+        }
+    },
+    {
+        "n": {
+            "name": "Idelalisib"
+        }
+    },
+    {
+        "n": {
+            "name": "Iloperidone"
+        }
+    },
+    {
+        "n": {
+            "name": "Indacaterol"
+        }
+    },
+    {
+        "n": {
+            "name": "Indapamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Indinavir"
+        }
+    },
+    {
+        "n": {
+            "name": "Interferon beta-1a"
+        }
+    },
+    {
+        "n": {
+            "name": "Interferon beta-1b"
+        }
+    },
+    {
+        "n": {
+            "name": "Isoniazid"
+        }
+    },
+    {
+        "n": {
+            "name": "Isoprenaline"
+        }
+    },
+    {
+        "n": {
+            "name": "Lanreotide"
+        }
+    },
+    {
+        "n": {
+            "name": "Leflunomide"
+        }
+    },
+    {
+        "n": {
+            "name": "Leuprolide"
+        }
+    },
+    {
+        "n": {
+            "name": "Levonorgestrel"
+        }
+    },
+    {
+        "n": {
+            "name": "Levothyroxine"
+        }
+    },
+    {
+        "n": {
+            "name": "Liothyronine"
+        }
+    },
+    {
+        "n": {
+            "name": "Liotrix"
+        }
+    },
+    {
+        "n": {
+            "name": "Lithium carbonate"
+        }
+    },
+    {
+        "n": {
+            "name": "Lomefloxacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Lomitapide"
+        }
+    },
+    {
+        "n": {
+            "name": "Lumateperone"
+        }
+    },
+    {
+        "n": {
+            "name": "Lurasidone"
+        }
+    },
+    {
+        "n": {
+            "name": "Medroxyprogesterone acetate"
+        }
+    },
+    {
+        "n": {
+            "name": "Megestrol acetate"
+        }
+    },
+    {
+        "n": {
+            "name": "Mephentermine"
+        }
+    },
+    {
+        "n": {
+            "name": "Mesoridazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Orciprenaline"
+        }
+    },
+    {
+        "n": {
+            "name": "Metaraminol"
+        }
+    },
+    {
+        "n": {
+            "name": "Metamfetamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Methazolamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Methdilazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Methotrexate"
+        }
+    },
+    {
+        "n": {
+            "name": "Methotrimeprazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Methoxamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Methylcellulose"
+        }
+    },
+    {
+        "n": {
+            "name": "Methylprednisolone"
+        }
+    },
+    {
+        "n": {
+            "name": "Methylprednisolone (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Metolazone"
+        }
+    },
+    {
+        "n": {
+            "name": "Midostaurin"
+        }
+    },
+    {
+        "n": {
+            "name": "Mipomersen"
+        }
+    },
+    {
+        "n": {
+            "name": "Moxifloxacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Nalidixic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Nelfinavir"
+        }
+    },
+    {
+        "n": {
+            "name": "Niacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Nicotinamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Norepinephrine"
+        }
+    },
+    {
+        "n": {
+            "name": "Norethisterone"
+        }
+    },
+    {
+        "n": {
+            "name": "Norfloxacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Norgestrel"
+        }
+    },
+    {
+        "n": {
+            "name": "Octreotide"
+        }
+    },
+    {
+        "n": {
+            "name": "Ofloxacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Olanzapine"
+        }
+    },
+    {
+        "n": {
+            "name": "Omacetaxine mepesuccinate"
+        }
+    },
+    {
+        "n": {
+            "name": "Paliperidone"
+        }
+    },
+    {
+        "n": {
+            "name": "Pancrelipase"
+        }
+    },
+    {
+        "n": {
+            "name": "Pasireotide"
+        }
+    },
+    {
+        "n": {
+            "name": "Pegaspargase"
+        }
+    },
+    {
+        "n": {
+            "name": "Peginterferon beta-1a"
+        }
+    },
+    {
+        "n": {
+            "name": "Pegvisomant"
+        }
+    },
+    {
+        "n": {
+            "name": "Pentamidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Perphenazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Pexidartinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Phendimetrazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenylephrine"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenylpropanolamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenytoin"
+        }
+    },
+    {
+        "n": {
+            "name": "Polythiazide"
+        }
+    },
+    {
+        "n": {
+            "name": "Pramlintide"
+        }
+    },
+    {
+        "n": {
+            "name": "Prednicarbate (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Prochlorperazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Progesterone"
+        }
+    },
+    {
+        "n": {
+            "name": "Progesterone (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Promazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Promethazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Propiomazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Pseudoephedrine"
+        }
+    },
+    {
+        "n": {
+            "name": "Plantago seed"
+        }
+    },
+    {
+        "n": {
+            "name": "Quetiapine"
+        }
+    },
+    {
+        "n": {
+            "name": "Quinestrol"
+        }
+    },
+    {
+        "n": {
+            "name": "Remdesivir"
+        }
+    },
+    {
+        "n": {
+            "name": "Risperidone"
+        }
+    },
+    {
+        "n": {
+            "name": "Ritodrine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ritonavir"
+        }
+    },
+    {
+        "n": {
+            "name": "Salmeterol"
+        }
+    },
+    {
+        "n": {
+            "name": "Saquinavir"
+        }
+    },
+    {
+        "n": {
+            "name": "Sermorelin"
+        }
+    },
+    {
+        "n": {
+            "name": "Sirolimus"
+        }
+    },
+    {
+        "n": {
+            "name": "Somapacitan"
+        }
+    },
+    {
+        "n": {
+            "name": "Somatrem"
+        }
+    },
+    {
+        "n": {
+            "name": "Somatotropin"
+        }
+    },
+    {
+        "n": {
+            "name": "Sparfloxacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Tacrolimus"
+        }
+    },
+    {
+        "n": {
+            "name": "Tagraxofusp"
+        }
+    },
+    {
+        "n": {
+            "name": "Temsirolimus"
+        }
+    },
+    {
+        "n": {
+            "name": "Teprotumumab"
+        }
+    },
+    {
+        "n": {
+            "name": "Terbutaline"
+        }
+    },
+    {
+        "n": {
+            "name": "Teriflunomide"
+        }
+    },
+    {
+        "n": {
+            "name": "Tesamorelin"
+        }
+    },
+    {
+        "n": {
+            "name": "Thiethylperazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Tioguanine"
+        }
+    },
+    {
+        "n": {
+            "name": "Thioridazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Thyroid, porcine"
+        }
+    },
+    {
+        "n": {
+            "name": "Thyrotropin alfa"
+        }
+    },
+    {
+        "n": {
+            "name": "Tipranavir"
+        }
+    },
+    {
+        "n": {
+            "name": "Torasemide"
+        }
+    },
+    {
+        "n": {
+            "name": "Trabectedin"
+        }
+    },
+    {
+        "n": {
+            "name": "Triamcinolone (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Triamcinolone (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Trichlormethiazide"
+        }
+    },
+    {
+        "n": {
+            "name": "Trifluoperazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Triflupromazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Alimemazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Triptorelin"
+        }
+    },
+    {
+        "n": {
+            "name": "Trovafloxacin"
+        }
+    },
+    {
+        "n": {
+            "name": "Turmeric"
+        }
+    },
+    {
+        "n": {
+            "name": "Vorinostat"
+        }
+    },
+    {
+        "n": {
+            "name": "Warfarin"
+        }
+    },
+    {
+        "n": {
+            "name": "Ziprasidone"
+        }
+    },
+    {
+        "n": {
+            "name": "Lidocaine"
+        }
+    },
+    {
+        "n": {
+            "name": "Obeticholic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Acetohexamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Alogliptin"
+        }
+    },
+    {
+        "n": {
+            "name": "Chlorpheniramine"
+        }
+    },
+    {
+        "n": {
+            "name": "Atropine (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Canagliflozin"
+        }
+    },
+    {
+        "n": {
+            "name": "Chlorpropamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Dapagliflozin"
+        }
+    },
+    {
+        "n": {
+            "name": "Dulaglutide"
+        }
+    },
+    {
+        "n": {
+            "name": "Empagliflozin"
+        }
+    },
+    {
+        "n": {
+            "name": "Ertugliflozin"
+        }
+    },
+    {
+        "n": {
+            "name": "Exenatide"
+        }
+    },
+    {
+        "n": {
+            "name": "Glimepiride"
+        }
+    },
+    {
+        "n": {
+            "name": "Glipizide"
+        }
+    },
+    {
+        "n": {
+            "name": "Glycopyrronium (topical)"
+        }
+    },
+    {
+        "n": {
+            "name": "Insulin human"
+        }
+    },
+    {
+        "n": {
+            "name": "Insulin aspart (aspart)"
+        }
+    },
+    {
+        "n": {
+            "name": "Insulin aspart (aspart protamine)"
+        }
+    },
+    {
+        "n": {
+            "name": "Insulin degludec"
+        }
+    },
+    {
+        "n": {
+            "name": "Insulin detemir"
+        }
+    },
+    {
+        "n": {
+            "name": "Insulin glargine"
+        }
+    },
+    {
+        "n": {
+            "name": "Insulin glulisine"
+        }
+    },
+    {
+        "n": {
+            "name": "Insulin human (inhalation, rapid acting)"
+        }
+    },
+    {
+        "n": {
+            "name": "Insulin human (isophane)"
+        }
+    },
+    {
+        "n": {
+            "name": "Insulin lispro"
+        }
+    },
+    {
+        "n": {
+            "name": "Insulin lispro (protamine)"
+        }
+    },
+    {
+        "n": {
+            "name": "Insulin human (regular)"
+        }
+    },
+    {
+        "n": {
+            "name": "Insulin human (zinc)"
+        }
+    },
+    {
+        "n": {
+            "name": "Insulin human (zinc extended)"
+        }
+    },
+    {
+        "n": {
+            "name": "Liraglutide"
+        }
+    },
+    {
+        "n": {
+            "name": "Lixisenatide"
+        }
+    },
+    {
+        "n": {
+            "name": "Miglitol"
+        }
+    },
+    {
+        "n": {
+            "name": "Potassium chloride"
+        }
+    },
+    {
+        "n": {
+            "name": "Potassium citrate"
+        }
+    },
+    {
+        "n": {
+            "name": "Scopolamine (ophthalmic)"
+        }
+    },
+    {
+        "n": {
+            "name": "Semaglutide"
+        }
+    },
+    {
+        "n": {
+            "name": "Sitagliptin"
+        }
+    },
+    {
+        "n": {
+            "name": "Tolazamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Tolbutamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Dextromethorphan"
+        }
+    },
+    {
+        "n": {
+            "name": "Acebutolol"
+        }
+    },
+    {
+        "n": {
+            "name": "Acetaminophen"
+        }
+    },
+    {
+        "n": {
+            "name": "Caffeine"
+        }
+    },
+    {
+        "n": {
+            "name": "Dihydrocodeine"
+        }
+    },
+    {
+        "n": {
+            "name": "Codeine"
+        }
+    },
+    {
+        "n": {
+            "name": "Isometheptene"
+        }
+    },
+    {
+        "n": {
+            "name": "Amphetamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Arformoterol"
+        }
+    },
+    {
+        "n": {
+            "name": "Atomoxetine"
+        }
+    },
+    {
+        "n": {
+            "name": "Bromocriptine"
+        }
+    },
+    {
+        "n": {
+            "name": "Dexmethylphenidate"
+        }
+    },
+    {
+        "n": {
+            "name": "Dextroamphetamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Dihydroergotamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Doxapram"
+        }
+    },
+    {
+        "n": {
+            "name": "Dichloralphenazone"
+        }
+    },
+    {
+        "n": {
+            "name": "Droxidopa"
+        }
+    },
+    {
+        "n": {
+            "name": "Ergometrine"
+        }
+    },
+    {
+        "n": {
+            "name": "Ergotamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Guanethidine"
+        }
+    },
+    {
+        "n": {
+            "name": "Iobenguane (I-123)"
+        }
+    },
+    {
+        "n": {
+            "name": "Isocarboxazid"
+        }
+    },
+    {
+        "n": {
+            "name": "Isoetharine"
+        }
+    },
+    {
+        "n": {
+            "name": "Levosalbutamol"
+        }
+    },
+    {
+        "n": {
+            "name": "Levomilnacipran"
+        }
+    },
+    {
+        "n": {
+            "name": "Linezolid"
+        }
+    },
+    {
+        "n": {
+            "name": "Lisdexamfetamine"
+        }
+    },
+    {
+        "n": {
+            "name": "Methylene blue"
+        }
+    },
+    {
+        "n": {
+            "name": "Methylergometrine"
+        }
+    },
+    {
+        "n": {
+            "name": "Methylphenidate"
+        }
+    },
+    {
+        "n": {
+            "name": "Methysergide"
+        }
+    },
+    {
+        "n": {
+            "name": "Midodrine"
+        }
+    },
+    {
+        "n": {
+            "name": "Milnacipran"
+        }
+    },
+    {
+        "n": {
+            "name": "Olodaterol"
+        }
+    },
+    {
+        "n": {
+            "name": "Oxytocin"
+        }
+    },
+    {
+        "n": {
+            "name": "Ozanimod"
+        }
+    },
+    {
+        "n": {
+            "name": "Phenelzine"
+        }
+    },
+    {
+        "n": {
+            "name": "Pirbuterol"
+        }
+    },
+    {
+        "n": {
+            "name": "Procarbazine"
+        }
+    },
+    {
+        "n": {
+            "name": "Racepinephrine"
+        }
+    },
+    {
+        "n": {
+            "name": "Safinamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Selegiline"
+        }
+    },
+    {
+        "n": {
+            "name": "Solriamfetol"
+        }
+    },
+    {
+        "n": {
+            "name": "Tranylcypromine"
+        }
+    },
+    {
+        "n": {
+            "name": "Venlafaxine"
+        }
+    },
+    {
+        "n": {
+            "name": "Tramadol"
+        }
+    },
+    {
+        "n": {
+            "name": "Amphotericin B (liposomal)"
+        }
+    },
+    {
+        "n": {
+            "name": "Beclomethasone dipropionate"
+        }
+    },
+    {
+        "n": {
+            "name": "Acetylcholine"
+        }
+    },
+    {
+        "n": {
+            "name": "Acetylcysteine"
+        }
+    },
+    {
+        "n": {
+            "name": "Abarelix"
+        }
+    },
+    {
+        "n": {
+            "name": "Adenosine"
+        }
+    },
+    {
+        "n": {
+            "name": "Alendronic acid"
+        }
+    },
+    {
+        "n": {
+            "name": "Alfuzosin"
+        }
+    },
+    {
+        "n": {
+            "name": "Aminophylline"
+        }
+    },
+    {
+        "n": {
+            "name": "Amiodarone"
+        }
+    },
+    {
+        "n": {
+            "name": "Amisulpride"
+        }
+    },
+    {
+        "n": {
+            "name": "Amitriptyline"
+        }
+    },
+    {
+        "n": {
+            "name": "Amoxapine"
+        }
+    },
+    {
+        "n": {
+            "name": "Anagrelide"
+        }
+    },
+    {
+        "n": {
+            "name": "Apalutamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Apomorphine"
+        }
+    },
+    {
+        "n": {
+            "name": "Arsenic trioxide"
+        }
+    },
+    {
+        "n": {
+            "name": "Astemizole"
+        }
+    },
+    {
+        "n": {
+            "name": "Axitinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Azithromycin"
+        }
+    },
+    {
+        "n": {
+            "name": "Bacampicillin"
+        }
+    },
+    {
+        "n": {
+            "name": "Bepridil"
+        }
+    },
+    {
+        "n": {
+            "name": "Bicalutamide"
+        }
+    },
+    {
+        "n": {
+            "name": "Bosutinib"
+        }
+    },
+    {
+        "n": {
+            "name": "Buprenorphine"
+        }
+    },
+    {
+        "n": {
+            "name": "Cefditoren"
+        }
+    }
+]
